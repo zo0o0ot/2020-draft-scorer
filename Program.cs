@@ -215,6 +215,8 @@ namespace _2020_draft_scorer
                     return "Georgia"; //Random Jake Fromm thing.
                 case "Southeast Missouri St":
                     return "Southeast Missouri State";
+                case "Utah St":
+                    return "Utah State";
                 default:
                     return school;
             }
@@ -285,56 +287,85 @@ namespace _2020_draft_scorer
 
             Dictionary<string, string> fantasyTeams = new Dictionary<string, string>()
             {
-                { "AJ",	"Baylor"},
-                { "AJ",	"Michigan"},
-                { "AJ",	"TCU"},
-                { "Jawad",	"LSU"},
-                { "Jared",	"Clemson"},
-                { "AJ",	"Louisville"},
-                { "Ross",	"Oregon"},
-                { "Tilo",	"Iowa"},
-                { "Tilo",	"Alabama"},
-                { "AJ",	"Washington"},
-                { "AJ",	"Florida"},
-                { "Jawad",	"Penn State"},
-                { "Jared",	"Georgia"},
-                { "Jawad",	"Ohio State"},
-                { "AJ",	"Wisconsin"},
-                { "Ross",	"Lenoir–Rhyne"},
-                { "Ross",	"Utah"},
-                { "Ross",	"Oklahoma"},
-                { "Ross",	"Auburn"},
-                { "Jared",	"Notre Dame"},
-                { "AJ",	"Arkansas"},
-                { "Tilo",	"USC"},
-                { "Tilo",	"Mississippi State"},
-                { "Jared",	"South Carolina"},
-                { "Tilo",	"Missouri"},
-                { "AJ",	"Fresno State"},
-                { "Jawad",	"Houston"},
-                { "Jared",	"Minnesota"},
-                { "Tilo",	"Utah State"},
-                { "Jawad",	"Nebraska"},
-                { "Ross",	"Texas A&M"},
-                { "Tilo",	"Michigan State"},
-                { "Tilo",	"Virginia"},
-                { "Tilo",	"Texas Tech"},
-                { "Jared",	"Texas"},
-                { "Ross",	"Boise State"},
-                { "Jared",	"Colorado"},
-                { "Ross",	"Miami (FL)"},
-                { "Ross",	"Maryland"},
-                { "Jared",	"Temple"},
-                { "AJ",	"California"},
-                { "Jawad",	"Purdue"},
-                { "Ross",	"Illinois"},
-                { "Tilo",	"Arizona State"},
-                { "Jared",	"Tennessee"},
-                { "Jared",	"Northwestern"}
+                { "Baylor",	"AJ"},
+                { "Michigan", "AJ"},
+                { "TCU", "AJ"},
+                { "LSU", "Jawad"},
+                { "Clemson", "Jared"},
+                { "Louisville",	"AJ"},
+                { "Oregon", "Ross"},
+                { "Iowa", "Tilo"},
+                { "Alabama", "Tilo"},
+                { "Washington",	"AJ"},
+                { "Florida", "AJ"},
+                { "Penn State",	"Jawad"},
+                { "Georgia", "Jared"},
+                { "Ohio State",	"Jawad"},
+                { "Wisconsin", "AJ"},
+                { "Lenoir–Rhyne", "Ross"},
+                { "Utah", "Ross"},
+                { "Oklahoma", "Ross"},
+                { "Auburn",	"Ross"},
+                { "Notre Dame", "Jared"},
+                { "Arkansas", "AJ"},
+                { "USC", "Tilo"},
+                { "Mississippi State", "Tilo"},
+                { "South Carolina", "Jared"},
+                { "Missouri", "Tilo"},
+                { "Fresno State", "AJ"},
+                { "Houston", "Jawad"},
+                { "Minnesota", "Jared"},
+                { "Utah State", "Tilo"},
+                { "Nebraska", "Jawad"},
+                { "Texas A&M", "Ross"},
+                { "Michigan State", "Tilo"},
+                { "Virginia", "Tilo"},
+                { "Texas Tech", "Tilo"},
+                { "Texas", "Jared"},
+                { "Boise State", "Ross"},
+                { "Colorado", "Jared"},
+                { "Miami (FL)", "Ross"},
+                { "Maryland", "Ross"},
+                { "Temple", "Jared"},
+                { "California", "AJ"},
+                { "Purdue", "Jawad"},
+                { "Illinois", "Ross"},
+                { "Arizona State", "Tilo"},
+                { "Tennessee", "Jared"},
+                { "Northwestern", "Jared"}
             };
 
             List<ScoreCard> results = new List<ScoreCard>();
 
+            var listOfLists = new System.Collections.ArrayList();
+            listOfLists.Add(list1);
+            listOfLists.Add(list2);
+            listOfLists.Add(list3);
+            listOfLists.Add(list4);
+            listOfLists.Add(list5);
+            listOfLists.Add(list6);
+
+            foreach (List<DraftPick> list in listOfLists)
+            {
+                foreach (DraftPick dp in list)
+                {
+                    try
+                    {
+                        string luckyDude = fantasyTeams[dp.school];
+                        int originalScore = scores[luckyDude];
+                        scores[luckyDude] = originalScore + dp.leagifyPoints;
+                    }
+                    catch
+                    {
+                        Console.WriteLine("Nobody picked this school:" + dp.school);
+                    }
+                    
+                    //int ross, int jawad, int tilo, int jared, int aj
+                    ScoreCard newScore = new ScoreCard(scores["Ross"], scores["Jawad"], scores["Tilo"], scores["Jared"], scores["AJ"]);
+                    Console.WriteLine("Ross score: " + scores["Ross"].ToString());
+                    results.Add(newScore);
+                }
+            }
         }
     }
 }
