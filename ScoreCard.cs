@@ -10,10 +10,12 @@ namespace _2020_draft_scorer
         public int Tilo;
         public int Jared;
         public int AJ;
+        public string pick;
 
         public ScoreCard () {}
-        public ScoreCard (int ross, int jawad, int tilo, int jared, int aj)
+        public ScoreCard (string pick, int ross, int jawad, int tilo, int jared, int aj)
         {
+            this.pick = pick;
             this.Ross = ross;
             this.Jawad = jawad;
             this.Tilo = tilo;
@@ -25,6 +27,7 @@ namespace _2020_draft_scorer
     {
         public ScoreCardCsvMap()
         {
+            Map(m => m.pick).Name("Pick");
             Map(m => m.Ross).Name("Ross");
             Map(m => m.Jawad).Name("Jawad");
             Map(m => m.Tilo).Name("Tilo");

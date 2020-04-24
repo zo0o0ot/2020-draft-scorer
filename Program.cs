@@ -361,7 +361,7 @@ namespace _2020_draft_scorer
                     }
                     
                     //int ross, int jawad, int tilo, int jared, int aj
-                    ScoreCard newScore = new ScoreCard(scores["Ross"], scores["Jawad"], scores["Tilo"], scores["Jared"], scores["AJ"]);
+                    ScoreCard newScore = new ScoreCard(dp.pickNumber ,scores["Ross"], scores["Jawad"], scores["Tilo"], scores["Jared"], scores["AJ"]);
                     Console.WriteLine("Ross score: " + scores["Ross"].ToString());
                     results.Add(newScore);
                 }
