@@ -10,24 +10,40 @@ namespace _2020_draft_scorer
     public class DraftPick
     {
         public int round;
+        public string teamCity;
         public string pickNumber;
-        public string team;
         public string playerName;
         public string school;
-        public string traded;
         public string position;
+        public string reachValue;
         public int leagifyPoints;
+        public string state;
+        public bool pickTraded;
+
 
         public DraftPick(){}
-        public DraftPick(string pick, string team, string name, string school, string pos, string relativeVal, string pickDate)
+        public DraftPick(string pick, string team, string name, string school, string pos, string relativeVal)
         {
             this.pickNumber = pick;
-            this.team = team;
+            this.teamCity = team;
             this.round = convertPickToRound(pick);
             this.playerName = name;
             this.school = school;
             this.position = pos;
-            this.leagifyPoints = convertPickToPoints(pick, this.round);
+            this.reachValue = relativeVal;
+            this.pickTraded = hasPickBeenTraded(team);
+            this.state = getState(school);
+
+            if(this.pickTraded)
+            {
+                this.leagifyPoints = 10 + convertPickToPoints(pick, this.round);
+            }
+            else
+            {
+                this.leagifyPoints = convertPickToPoints(pick, this.round);
+            }
+
+
         }
         public static int convertPickToRound(string pick)
         {
@@ -45,6 +61,7 @@ namespace _2020_draft_scorer
                     Picks 129-159: Round 5
                     Picks 160-191: Round 6
                     Picks 192-223: Round 7
+
                     Pick numbers with comp picks:
                     Round 1 = picks 1-32
                     Round 2 = picks 33-64 
@@ -84,6 +101,12 @@ namespace _2020_draft_scorer
             }
             
         }
+
+        public static bool hasPickBeenTraded(string teamText)
+        {
+            return teamText.Contains("Trade");
+        }
+
         public static int convertPickToPoints(string pick, int round)
         {
             int intpick = 0;
@@ -150,56 +173,59 @@ namespace _2020_draft_scorer
             }
             return 0;
         }
-        // public static string getState(string school)
-        // {
-        //     // Get Schools and the States where they are located.
-        //     List<School> schoolsAndConferences;
-        //     using (var reader = new StreamReader($"info{Path.DirectorySeparatorChar}SchoolStatesAndConferences.csv"))
-        //     using (var csv = new CsvReader(reader))
-        //     {
-        //         csv.Configuration.RegisterClassMap<SchoolCsvMap>();
-        //         schoolsAndConferences = csv.GetRecords<School>().ToList();
-        //     }
-        //     var stateResult = from s in schoolsAndConferences
-        //                          where s.schoolName == school
-        //                          select s.state;
+        public static string getState(string school)
+        {
+            // Get Schools and the States where they are located.
+            List<School> schoolsAndConferences;
+            using (var reader = new StreamReader($"info{Path.DirectorySeparatorChar}SchoolStatesAndConferences.csv"))
+            using (var csv = new CsvReader(reader))
+            {
+                csv.Configuration.RegisterClassMap<SchoolCsvMap>();
+                schoolsAndConferences = csv.GetRecords<School>().ToList();
+            }
+            var stateResult = from s in schoolsAndConferences
+                                 where s.schoolName == school
+                                 select s.state;
 
-        //     var srfd = stateResult.FirstOrDefault();
-        //     string sr = "";
+            var srfd = stateResult.FirstOrDefault();
+            string sr = "";
 
-        //     if (srfd != null)
-        //     {
-        //         sr = srfd.ToString();
-        //     }
-        //     else
-        //     {
-        //         Console.WriteLine("Error matching school!");
-        //     }
+            if (srfd != null)
+            {
+                sr = srfd.ToString();
+            }
+            else
+            {
+                Console.WriteLine("Error matching school!");
+            }
             
 
-        //     if(sr.Length > 0)
-        //     {
-        //         return sr;
-        //     }
-        //     else
-        //     {
-        //         return "";
-        //     }
-        //     //return stateResult.FirstOrDefault().ToString();
-        // }
+            if(sr.Length > 0)
+            {
+                return sr;
+            }
+            else
+            {
+                return "";
+            }
+            //return stateResult.FirstOrDefault().ToString();
+        }
     }
     public sealed class DraftPickCsvMap : ClassMap<DraftPick>
     {
         public DraftPickCsvMap()
         {
-            //Pick,Round,Player,School,Position,Team,ReachValue,Points,Date
+            //Pick,Round,Player,School,Position,Team,ReachValue,Points,PickTraded
             Map(m => m.pickNumber).Name("Pick");
             Map(m => m.round).Name("Round");
             Map(m => m.playerName).Name("Player");
             Map(m => m.school).Name("School");
             Map(m => m.position).Name("Position");
-            Map(m => m.team).Name("Team");
+            Map(m => m.teamCity).Name("Team");
+            Map(m => m.reachValue).Name($"ReachValue");
             Map(m => m.leagifyPoints).Name("Points");
+            Map(m => m.state).Name("State");
+            Map(m => m.pickTraded).Name("PickTraded");
         }
     }
 }
