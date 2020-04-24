@@ -273,11 +273,67 @@ namespace _2020_draft_scorer
         }
         private static void ScorePicks(List<DraftPick> list1, List<DraftPick> list2, List<DraftPick> list3, List<DraftPick> list4, List<DraftPick> list5, List<DraftPick> list6)
         {
-            int Ross = 0;
-            int Jawad = 0;
-            int Tilo = 0;
-            int Jared = 0;
-            int AJ = 0;
+            Dictionary<string, int> scores = new Dictionary<string, int>()
+            {
+                {"Ross",0},
+                {"Jawad",0},
+                {"Tilo",0},
+                {"Jared",0},
+                {"AJ",0}
+            };
+            
+
+            Dictionary<string, string> fantasyTeams = new Dictionary<string, string>()
+            {
+                { "AJ",	"Baylor"},
+                { "AJ",	"Michigan"},
+                { "AJ",	"TCU"},
+                { "Jawad",	"LSU"},
+                { "Jared",	"Clemson"},
+                { "AJ",	"Louisville"},
+                { "Ross",	"Oregon"},
+                { "Tilo",	"Iowa"},
+                { "Tilo",	"Alabama"},
+                { "AJ",	"Washington"},
+                { "AJ",	"Florida"},
+                { "Jawad",	"Penn State"},
+                { "Jared",	"Georgia"},
+                { "Jawad",	"Ohio State"},
+                { "AJ",	"Wisconsin"},
+                { "Ross",	"Lenoir–Rhyne"},
+                { "Ross",	"Utah"},
+                { "Ross",	"Oklahoma"},
+                { "Ross",	"Auburn"},
+                { "Jared",	"Notre Dame"},
+                { "AJ",	"Arkansas"},
+                { "Tilo",	"USC"},
+                { "Tilo",	"Mississippi State"},
+                { "Jared",	"South Carolina"},
+                { "Tilo",	"Missouri"},
+                { "AJ",	"Fresno State"},
+                { "Jawad",	"Houston"},
+                { "Jared",	"Minnesota"},
+                { "Tilo",	"Utah State"},
+                { "Jawad",	"Nebraska"},
+                { "Ross",	"Texas A&M"},
+                { "Tilo",	"Michigan State"},
+                { "Tilo",	"Virginia"},
+                { "Tilo",	"Texas Tech"},
+                { "Jared",	"Texas"},
+                { "Ross",	"Boise State"},
+                { "Jared",	"Colorado"},
+                { "Ross",	"Miami (FL)"},
+                { "Ross",	"Maryland"},
+                { "Jared",	"Temple"},
+                { "AJ",	"California"},
+                { "Jawad",	"Purdue"},
+                { "Ross",	"Illinois"},
+                { "Tilo",	"Arizona State"},
+                { "Jared",	"Tennessee"},
+                { "Jared",	"Northwestern"}
+            };
+
+            List<ScoreCard> results = new List<ScoreCard>();
 
         }
     }
