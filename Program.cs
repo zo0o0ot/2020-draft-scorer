@@ -366,6 +366,17 @@ namespace _2020_draft_scorer
                     results.Add(newScore);
                 }
             }
+            var csvFileName = $"draft{Path.DirectorySeparatorChar}leagifyResults.csv";
+
+            Console.WriteLine("Creating csv...");
+
+            //Write projects to csv with date.
+            using (var writer = new StreamWriter(csvFileName))
+            using (var csv = new CsvWriter(writer))
+            {
+                csv.Configuration.RegisterClassMap<ScoreCardCsvMap>();
+                csv.WriteRecords(results);
+            }
         }
     }
 }
