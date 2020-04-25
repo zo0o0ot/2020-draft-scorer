@@ -971,7 +971,7 @@ OT
 -44
 Louisiana
 4
-8
+18
 109
 Las Vegas
 John Simpson
@@ -1001,11 +1001,11 @@ Georgia
 8
 112
 LA Chargers
-Hunter Bryant
-Washington
-TE
-+62
-Washington
+Joshua Kelley
+UCLA
+RBC
+-19
+California
 4
 8
 113
@@ -1118,20 +1118,20 @@ Oregon
 18
 125
 NY Jets (Trade)
-Troy Pride Jr.
-Notre Dame
-CB
-+43
-Indiana
+Hunter Bryant
+Washington
+TE
++75
+Washington
 4
 8
 126
 LA Rams
-Amik Robertson
-Louisiana Tech
+Troy Pride Jr.
+Notre Dame
 CB
-+38
-Louisiana
++44
+Indiana
 4
 8
 127
@@ -1154,11 +1154,11 @@ Virginia
 18
 129
 NY Jets (Trade)
-Harrison Bryant
-Florida Atlantic
-TE
-+33
-Florida
+Amik Robertson
+Louisiana Tech
+CB
++41
+Louisiana
 4
 8
 130
@@ -1172,11 +1172,11 @@ South Carolina
 18
 131
 Arizona (Trade)
-Jason Strowbridge
-North Carolina
-DL5T
-+32
-North Carolina
+Harrison Bryant
+Florida Atlantic
+TE
++35
+Florida
 4
 8
 132
@@ -1235,11 +1235,11 @@ Georgia
 8
 138
 Kansas City
-A.J. Green
-Oklahoma State
-CB
--21
-Oklahoma
+Jason Strowbridge
+North Carolina
+DL5T
++39
+North Carolina
 4
 8
 139
@@ -1298,20 +1298,20 @@ Ohio
 8
 145
 Philadelphia (Comp)
-Joshua Kelley
-UCLA
-RBC
-+14
-California
+Gabriel Davis
+UCF
+WR
++30
+Florida
 4
 8
 146
 Philadelphia (Comp)
-Gabriel Davis
-UCF
+Donovan Peoples-Jones
+Michigan
 WR
-+31
-Florida
++20
+Michigan
 5
 7
 147
@@ -1361,11 +1361,11 @@ Washington
 7
 152
 Carolina
-Donovan Peoples-Jones
-Michigan
-WR
-+26
-Michigan
+Markus Bailey
+Purdue
+ILB
++8
+Indiana
 5
 7
 153
@@ -1586,11 +1586,11 @@ Michigan
 7
 177
 Kansas City
-Markus Bailey
-Purdue
-ILB
-+33
-Indiana
+A.J. Green
+Oklahoma State
+CB
++18
+Oklahoma
 5
 7
 178
@@ -1649,11 +1649,11 @@ Idaho
 6
 184
 Carolina
-Joe Bachie
-Michigan State
-ILB
-+17
-Michigan
+Quartney Davis
+Texas A&M
+WR
++15
+Texas
 6
 6
 185
@@ -1676,11 +1676,11 @@ Pennsylvania
 16
 187
 Cleveland (Trade)
-Quartney Davis
-Texas A&M
-WR
-+18
-Texas
+Stanford Samuels III
+Florida State
+CB
+-1
+Florida
 6
 16
 188
@@ -1775,19 +1775,19 @@ North Carolina
 6
 198
 Pittsburgh
-Mykal Walker
-Fresno State
+Joe Bachie
+Michigan State
 ILB
-+24
-California
++31
+Michigan
 6
 6
 199
 LA Rams
-Evan Weaver
-California
+Mykal Walker
+Fresno State
 ILB
-+19
++25
 California
 6
 16
@@ -1811,11 +1811,11 @@ Virginia
 16
 202
 Arizona (Trade)
-Stanford Samuels III
-Florida State
+Shyheim Carter
+Alabama
 CB
-+14
-Florida
++11
+Alabama
 6
 6
 203
@@ -1865,11 +1865,11 @@ Pennsylvania
 16
 208
 Green Bay (Trade)
-Shyheim Carter
-Alabama
-CB
-+17
-Alabama
+Evan Weaver
+California
+ILB
++28
+California
 6
 6
 209
@@ -2117,11 +2117,11 @@ Washington
 15
 236
 Green Bay (Trade)
-David Woodward
-Utah State
-ILB
-+15
-Utah
+Essang Bassey
+Wake Forest
+CB
++5
+North Carolina
 7
 15
 237
@@ -2180,20 +2180,20 @@ Mississippi
 5
 243
 Tennessee
-Rodney Clemons
-SMU
-S
-+17
-Texas
+David Woodward
+Utah State
+ILB
++22
+Utah
 7
 15
 244
 Minnesota (Trade)
-Harrison Hand
-Temple
+Rodney Clemons
+SMU
 S
-+15
-Pennsylvania
++18
+Texas
 7
 5
 245
@@ -2261,11 +2261,11 @@ Minnesota
 5
 252
 Denver (Comp)
-Essang Bassey
-Wake Forest
+Jace Whittaker
+Arizona
 CB
-+21
-North Carolina
++1
+Arizona
 7
 5
 253
@@ -2434,6 +2434,13 @@ Ross score: 335
 Nobody picked this school:UCLA
 Ross score: 335
 Ross score: 335
+Nobody picked this school:UCLA
 Ross score: 335
+Ross score: 335
+Ross score: 335
+Ross score: 343
+Nobody picked this school:St. John's
+Ross score: 343
+Ross score: 343
 Creating csv...
 Behold, the draft!
