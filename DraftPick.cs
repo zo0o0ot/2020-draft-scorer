@@ -109,9 +109,9 @@ namespace _2020_draft_scorer
             {
                 return true;
             }
-            else if (pick == "59" || pick == "60")
+            else if (pick == "59" || pick == "60" || pick == "69" || pick == "74" || pick == "75" || pick == "88")
             {
-                // bad data on site. Not listed as trade even though it is.
+                // bad data on site. Not listed as part of a trade even though it is.
                 return true;
             }
             else
