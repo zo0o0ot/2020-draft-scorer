@@ -2225,39 +2225,39 @@ Minnesota
 7
 15
 248
-Houston (Comp)
-Calvin Throckmorton
-Oregon
-OG
-+99
-Oregon
+LA Rams (Comp)
+Sam Sloman
+Miami (OH)
+PK
+-54
+Ohio
 7
 5
 249
 Minnesota (Comp)
-J.R. Reed
-Georgia
+Brian Cole II
+Mississippi State
 S
-+96
-Georgia
+-80
+Mississippi
 7
 15
 250
-Houston (Comp)
-Nick Coe
-Auburn
-DL5T
-+68
-Alabama
+LA Rams (Comp)
+Tremayne Anchrum
+Clemson
+OG
+-76
+South Carolina
 7
-5
+15
 251
-Miami (Comp)
-Benito Jones
-Ole Miss
-DL1T
-+75
-Mississippi
+Seattle (Comp)
+Calvin Throckmorton
+Oregon
+OT
++122
+Oregon
 7
 5
 252
@@ -2625,6 +2625,10 @@ Ross score: 550
 Nobody picked this school:Louisiana-Lafayette
 Ross score: 550
 Nobody picked this school:Navy
+Ross score: 550
+Ross score: 550
+Nobody picked this school:Miami (OH)
+Ross score: 550
 Ross score: 550
 Ross score: 550
 Ross score: 550

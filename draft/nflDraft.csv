@@ -246,10 +246,10 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 245,7,Raymond Calais,Louisiana-Lafayette,RBC,Tampa Bay,-1,15,Louisiana,True,True
 246,7,Malcolm Perry,Navy,RBC,Miami (Trade),-102,15,Maryland,True,True
 247,7,Chris Williamson,Minnesota,CB,NY Giants (Comp),-19,5,Minnesota,False,True
-248,7,Calvin Throckmorton,Oregon,OG,Houston (Comp),+99,15,Oregon,True,False
-249,7,J.R. Reed,Georgia,S,Minnesota (Comp),+96,5,Georgia,False,False
-250,7,Nick Coe,Auburn,DL5T,Houston (Comp),+68,15,Alabama,True,False
-251,7,Benito Jones,Ole Miss,DL1T,Miami (Comp),+75,5,Mississippi,False,False
+248,7,Sam Sloman,Miami (OH),PK,LA Rams (Comp),-54,15,Ohio,True,True
+249,7,Brian Cole II,Mississippi State,S,Minnesota (Comp),-80,5,Mississippi,False,True
+250,7,Tremayne Anchrum,Clemson,OG,LA Rams (Comp),-76,15,South Carolina,True,True
+251,7,Calvin Throckmorton,Oregon,OT,Seattle (Comp),+122,15,Oregon,True,False
 252,7,Trey Adams,Washington,OT,Denver (Comp),+118,5,Washington,False,False
 253,7,Tyrie Cleveland,Florida,WR,Minnesota (Comp),-151,5,Florida,False,False
 254,7,Lamar Jackson,Nebraska,CB,Denver (Comp),+116,5,Nebraska,False,False
