@@ -66,8 +66,8 @@ namespace _2020_draft_scorer
                     Pick numbers with comp picks:
                     Round 1 = picks 1-32
                     Round 2 = picks 33-64 
-                    Round 3 = picks 65-103
-                    Round 4 = picks 104-146
+                    Round 3 = picks 65-106
+                    Round 4 = picks 107-146
                     Round 5 = picks 147-179
                     Round 6 = picks 180-214
                     Round 7 = picks 215-255
@@ -78,10 +78,10 @@ namespace _2020_draft_scorer
                 } else if (intpick >= 33 && intpick <= 64)
                 {
                     return 2;
-                } else if (intpick >= 65 && intpick <=103)
+                } else if (intpick >= 65 && intpick <=106)
                 {
                     return 3;
-                } else if (intpick >= 104 && intpick <= 146)
+                } else if (intpick >= 107 && intpick <= 146)
                 {
                     return 4;
                 } else if (intpick >= 147 && intpick <= 179)

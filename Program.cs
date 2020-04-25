@@ -381,6 +381,24 @@ namespace _2020_draft_scorer
                     
                 }
             }
+
+            //Need to add prop bets points here.
+            // AJ: 40
+            // Ross: 35
+            // Tilo: 25
+            // Jawad: 20
+            // Jared: Forgot to play
+            int originalAJScore = scores["AJ"];
+            int originalRossScore = scores["Ross"];
+            int originalTiloScore = scores["Tilo"];
+            int originalJawadScore = scores["Jawad"];
+            int originalJaredScore = scores["Jared"];
+            //int ross, int jawad, int tilo, int jared, int aj
+            ScoreCard scoreWithPropBets = new ScoreCard("WithPropBets",scores["Ross"]+35, scores["Jawad"]+20, scores["Tilo"]+25, scores["Jared"], scores["AJ"]+40);
+            Console.WriteLine("Ross score: " + scores["Ross"].ToString());
+            results.Add(scoreWithPropBets);
+
+
             var csvFileName = $"draft{Path.DirectorySeparatorChar}leagifyResults.csv";
 
             Console.WriteLine("Creating csv...");
