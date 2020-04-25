@@ -1304,7 +1304,7 @@ OT
 +0
 Alabama
 4
-8
+18
 146
 Dallas (Comp)
 Tyler Biadasz
@@ -1316,29 +1316,29 @@ Wisconsin
 7
 147
 Cincinnati
-Bryce Hall
-Virginia
-CB
-+88
-Virginia
+Khalid Kareem
+Notre Dame
+EDGE
+-21
+Indiana
 5
-7
+17
 148
 Seattle
-Tyler Johnson
-Minnesota
-WR
-+75
-Minnesota
+Alton Robinson
+Syracuse
+EDGE
++31
+New York
 5
 17
 149
 Indianapolis (Trade)
-Luq Barcoo
-San Diego State
-CB
--34
-California
+Danny Pinter
+Ball State
+OG
+-56
+Indiana
 5
 7
 150
@@ -1367,7 +1367,7 @@ OG
 +125
 California
 5
-7
+17
 153
 Miami
 Bradlee Anae
@@ -1397,11 +1397,11 @@ Georgia
 17
 156
 Washington (Trade)
-Shane Lemieux
-Oregon
-OG
-+92
-Oregon
+Bryce Hall
+Virginia
+CB
++97
+Virginia
 5
 17
 157
@@ -1415,13 +1415,13 @@ Washington
 7
 158
 NY Jets
-Lamar Jackson
-Nebraska
-CB
-+20
-Nebraska
+Tyler Johnson
+Minnesota
+WR
++85
+Minnesota
 5
-7
+17
 159
 New England
 K.J. Hill
@@ -1433,11 +1433,11 @@ Ohio
 17
 160
 Cleveland (Trade)
-Hakeem Adeniji
-Kansas
+Shane Lemieux
+Oregon
 OG
-+30
-Kansas
++96
+Oregon
 5
 7
 161
@@ -1451,22 +1451,22 @@ North Carolina
 17
 162
 Washington (Trade)
-Lavert Hill
-Michigan
-CB
-+11
-Michigan
+Cam Brown
+Penn State
+ILB
++38
+Pennsylvania
 5
 7
 163
 Chicago
-Prince Tega Wanogho
-Auburn
-OT
-+55
-Alabama
+Hakeem Adeniji
+Kansas
+OG
++33
+Kansas
 5
-7
+17
 164
 Philadelphia
 Donovan Peoples-Jones
@@ -1505,13 +1505,13 @@ Michigan
 17
 168
 Philadelphia (Trade)
-Alton Robinson
-Syracuse
-EDGE
-+51
-New York
+Lamar Jackson
+Nebraska
+CB
++30
+Nebraska
 5
-7
+17
 169
 Minnesota
 Darryl Williams
@@ -1568,11 +1568,11 @@ Louisiana
 7
 175
 Green Bay
-Danny Pinter
-Ball State
-OG
--135
-Indiana
+Prince Tega Wanogho
+Auburn
+OT
++67
+Alabama
 5
 17
 176
@@ -1622,11 +1622,11 @@ Maryland
 16
 181
 Denver (Trade)
-Cam Brown
-Penn State
-ILB
-+57
-Pennsylvania
+Lavert Hill
+Michigan
+CB
++30
+Michigan
 6
 6
 182
@@ -1712,20 +1712,20 @@ Tennessee
 6
 191
 NY Jets
-Quartney Davis
-Texas A&M
-WR
-+22
-Texas
+Luq Barcoo
+San Diego State
+CB
++8
+California
 6
 16
 192
 Green Bay (Trade)
-Alex Taylor
-South Carolina State
-OT
-+0
-South Carolina
+Quartney Davis
+Texas A&M
+WR
++23
+Texas
 6
 6
 193
@@ -1793,11 +1793,11 @@ Michigan
 16
 200
 Chicago (Trade)
-Khalid Kareem
-Notre Dame
-EDGE
-+32
-Indiana
+Cole McDonald
+Hawaii
+QB
++25
+Hawaii
 6
 16
 201
@@ -1919,11 +1919,11 @@ Oregon
 6
 214
 Seattle (Comp)
-Cole McDonald
-Hawaii
-QB
-+39
-Hawaii
+Alex Taylor
+South Carolina State
+OT
++22
+South Carolina
 7
 5
 215
@@ -2027,11 +2027,11 @@ Minnesota
 15
 226
 Chicago (Trade)
-Steven Montez
-Colorado
-QB
-+2
-Colorado
+Jonathan Garvin
+Miami (FL)
+EDGE
++10
+Florida
 7
 15
 227
@@ -2045,20 +2045,20 @@ Texas
 15
 228
 Atlanta (Trade)
-Jonathan Garvin
-Miami (FL)
-EDGE
-+12
-Florida
+Michael Divinity Jr.
+LSU
+OLB
++8
+Louisiana
 7
 15
 229
 Washington (Trade)
-Scoota Harris
-Arkansas
-ILB
-+31
-Arkansas
+Jacob Breeland
+Oregon
+TE
+-18
+Oregon
 7
 15
 230
@@ -2081,11 +2081,11 @@ North Carolina
 5
 232
 Pittsburgh
-Francis Bernard
-Utah State
+Scoota Harris
+Arkansas
 ILB
-+29
-Utah
++34
+Arkansas
 7
 5
 233
@@ -2117,11 +2117,11 @@ Mississippi
 15
 236
 Green Bay (Trade)
-Austin Mack
-Ohio State
-WR
--25
-Ohio
+Benning Potoa'e
+Washington
+DL3T
+-6
+Washington
 7
 15
 237
@@ -2135,56 +2135,56 @@ Texas
 15
 238
 NY Giants (Trade)
-Kalija Lipscomb
-Vanderbilt
+Austin Mack
+Ohio State
 WR
--34
-Tennessee
+-23
+Ohio
 7
 15
 239
 Buffalo (Trade)
-Justin Herron
-Wake Forest
-OG
-+35
-North Carolina
+Francis Bernard
+Utah State
+ILB
++36
+Utah
 7
 5
 240
 Houston
-Michael Onwenu
-Michigan
+Justin Herron
+Wake Forest
 OG
-+13
-Michigan
++36
+North Carolina
 7
 15
 241
 Tampa Bay (Trade)
-Cordel Iwuagwu
-TCU
+Michael Onwenu
+Michigan
 OG
-+6
-Texas
++14
+Michigan
 7
 15
 242
 Green Bay (Trade)
-Benning Potoa'e
-Washington
-DL3T
-+0
+Frederick Mauigoa
+Washington State
+OC
++36
 Washington
 7
 5
 243
 Tennessee
-Frederick Mauigoa
-Washington State
-OC
-+37
-Washington
+Cordel Iwuagwu
+TCU
+OG
++8
+Texas
 7
 15
 244
@@ -2207,11 +2207,11 @@ Mississippi
 15
 246
 Miami (Trade)
-Michael Divinity Jr.
-LSU
-OLB
-+26
-Louisiana
+David Woodward
+Utah State
+ILB
++25
+Utah
 7
 5
 247
@@ -2225,11 +2225,11 @@ Illinois
 5
 248
 Houston (Comp)
-Kendrick Rogers
-Texas A&M
+Kalija Lipscomb
+Vanderbilt
 WR
--40
-Texas
+-24
+Tennessee
 7
 5
 249
@@ -2252,11 +2252,11 @@ Michigan
 5
 251
 Miami (Comp)
-David Woodward
-Utah State
-ILB
-+30
-Utah
+Sean Pollard
+Clemson
+OC
++23
+South Carolina
 7
 5
 252
@@ -2279,11 +2279,11 @@ Florida
 5
 254
 Denver (Comp)
-Jace Whittaker
-Arizona
-CB
-+3
-Arizona
+Kamal Martin
+Minnesota
+ILB
+-4
+Minnesota
 7
 5
 255
@@ -2482,6 +2482,11 @@ Ross score: 377
 Ross score: 377
 Ross score: 385
 Ross score: 393
+Ross score: 393
+Ross score: 393
+Nobody picked this school:Syracuse
+Ross score: 393
+Nobody picked this school:Ball State
 Ross score: 393
 Ross score: 393
 Creating csv...
