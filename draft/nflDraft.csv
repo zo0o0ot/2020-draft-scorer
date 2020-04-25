@@ -107,7 +107,7 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 106,3,Tyre Phillips,Mississippi State,OT,Baltimore (Comp),-53,10,Mississippi,False,True
 107,4,Akeem Davis-Gaither,Appalachian State,OLB,Cincinnati,+6,8,North Carolina,False,True
 108,4,Saahdiq Charles,LSU,OT,Washington,-44,8,Louisiana,False,True
-109,4,John Simpson,Clemson,OG,Las Vegas,-21,8,South Carolina,False,True
+109,4,John Simpson,Clemson,OG,Las Vegas,-21,18,South Carolina,True,True
 110,4,Darnay Holmes,UCLA,CB,NY Giants,+6,8,California,False,True
 111,4,Solomon Kindley,Georgia,OG,Miami (Trade),-22,18,Georgia,True,True
 112,4,Hunter Bryant,Washington,TE,LA Chargers,+62,8,Washington,False,False
