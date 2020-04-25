@@ -19,6 +19,7 @@ namespace _2020_draft_scorer
         public int leagifyPoints;
         public string state;
         public bool pickTraded;
+        public bool actualPick;
 
 
         public DraftPick(){}

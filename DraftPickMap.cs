@@ -27,6 +27,7 @@ namespace _2020_draft_scorer
             Map(m => m.leagifyPoints).Index(7).Name("Points");
             Map(m => m.state).Index(8).Name("State");
             Map(m => m.pickTraded).Index(9).Name("PickTraded");
+            Map(m => m.actualPick).Index(10).Name("ActualPick");
         }
     }
 }

@@ -90,6 +90,8 @@ namespace _2020_draft_scorer
                 {
                     var tr = node.SelectSingleNode("tr");
                     DraftPick DraftPick = createDraftEntry(tr);
+                    //Separate mock picks from actual picks
+                    DraftPick.actualPick = node.Attributes.FirstOrDefault().Value.ToString().IndexOf("darkslategray", StringComparison.OrdinalIgnoreCase) >= 0;
                     mdpList.Add(DraftPick);
                 }
             }
@@ -349,30 +351,34 @@ namespace _2020_draft_scorer
             {
                 foreach (DraftPick dp in list)
                 {
-                    try
+                    if (dp.actualPick)
                     {
-                        if (dp.playerName == "Jalen Hurts")
+                        try
                         {
-                            //Jalen Hurts counts for Oklahoma, not Alabama.
-                            int originalScore = scores["Ross"];
-                            scores["Ross"] = originalScore + dp.leagifyPoints;
+                            if (dp.playerName == "Jalen Hurts")
+                            {
+                                //Jalen Hurts counts for Oklahoma, not Alabama.
+                                int originalScore = scores["Ross"];
+                                scores["Ross"] = originalScore + dp.leagifyPoints;
+                            }
+                            else
+                            {
+                                string luckyDude = fantasyTeams[dp.school];
+                                int originalScore = scores[luckyDude];
+                                scores[luckyDude] = originalScore + dp.leagifyPoints;
+                            }
                         }
-                        else
+                        catch
                         {
-                            string luckyDude = fantasyTeams[dp.school];
-                            int originalScore = scores[luckyDude];
-                            scores[luckyDude] = originalScore + dp.leagifyPoints;
+                            Console.WriteLine("Nobody picked this school:" + dp.school);
                         }
-                    }
-                    catch
-                    {
-                        Console.WriteLine("Nobody picked this school:" + dp.school);
+                        
+                        //int ross, int jawad, int tilo, int jared, int aj
+                        ScoreCard newScore = new ScoreCard(dp.pickNumber ,scores["Ross"], scores["Jawad"], scores["Tilo"], scores["Jared"], scores["AJ"]);
+                        Console.WriteLine("Ross score: " + scores["Ross"].ToString());
+                        results.Add(newScore);
                     }
                     
-                    //int ross, int jawad, int tilo, int jared, int aj
-                    ScoreCard newScore = new ScoreCard(dp.pickNumber ,scores["Ross"], scores["Jawad"], scores["Tilo"], scores["Jared"], scores["AJ"]);
-                    Console.WriteLine("Ross score: " + scores["Ross"].ToString());
-                    results.Add(newScore);
                 }
             }
             var csvFileName = $"draft{Path.DirectorySeparatorChar}leagifyResults.csv";
