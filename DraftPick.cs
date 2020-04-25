@@ -117,7 +117,7 @@ namespace _2020_draft_scorer
                     || pick == "164" || pick == "169" || pick == "182" || pick == "196" 
                     || pick == "203" || pick == "207" || pick == "210" || pick == "212"
                     || pick == "213" || pick == "219" || pick == "233" || pick == "240" 
-                    || pick == "245" || pick == "248" || pick == "250")
+                    || pick == "245" || pick == "248" || pick == "250" || pick == "251")
             {
                 // bad data on site. Not listed as part of a trade even though it is.
                 return true;
