@@ -2001,11 +2001,11 @@ Arizona
 5
 223
 Jacksonville
-Calvin Throckmorton
-Oregon
-OT
-+94
-Oregon
+Chris Claybrooks
+Memphis
+CB
+-57
+Tennessee
 7
 15
 224
@@ -2018,39 +2018,39 @@ Hawaii
 7
 15
 225
-Baltimore (Trade)
-Lamar Jackson
-Nebraska
-CB
-+87
-Nebraska
+Minnesota (Trade)
+Kenny Willekes
+Michigan State
+EDGE
++36
+Michigan
 7
 15
 226
 Chicago (Trade)
-Anthony Gordon
-Washington State
-QB
-+106
-Washington
+Arlington Hambright
+Colorado
+OG
+-54
+Colorado
 7
 15
 227
-Miami (Trade)
-Benito Jones
-Ole Miss
-DL1T
-+51
-Mississippi
+Chicago (Trade)
+Anthony Gordon
+Washington State
+QB
++107
+Washington
 7
 15
 228
 Atlanta (Trade)
-Kenny Willekes
-Michigan State
+Casey Toohill
+Stanford
 EDGE
-+39
-Michigan
++27
+California
 7
 15
 229
@@ -2082,29 +2082,29 @@ Georgia
 5
 232
 Pittsburgh
-Darrion Daniels
-Nebraska
+Benito Jones
+Ole Miss
 DL1T
--30
-Nebraska
++56
+Mississippi
 7
 15
 233
 Chicago
-Trey Adams
-Washington
-OT
-+99
-Washington
+Alex Taylor
+South Carolina State
+S
++36
+South Carolina
 7
 5
 234
 LA Rams
-Joe Bachie
-Michigan State
-ILB
-+67
-Michigan
+Calvin Throckmorton
+Oregon
+OT
++105
+Oregon
 7
 15
 235
@@ -2145,11 +2145,11 @@ Mississippi
 15
 239
 Buffalo (Trade)
-Lavert Hill
-Michigan
-CB
-+88
-Michigan
+Trey Adams
+Washington
+OT
++105
+Washington
 7
 5
 240
@@ -2181,29 +2181,29 @@ Texas
 5
 243
 Tennessee
-Casey Toohill
-Stanford
+Jonathan Garvin
+Miami (FL)
 EDGE
-+42
-California
++27
+Florida
 7
 15
 244
 Minnesota (Trade)
-Alex Taylor
-South Carolina State
+Rodney Clemons
+SMU
 S
-+47
-South Carolina
++18
+Texas
 7
 15
 245
 Tampa Bay
-A.J. Green
-Oklahoma State
+Lamar Jackson
+Nebraska
 CB
-+86
-Oklahoma
++107
+Nebraska
 7
 15
 246
@@ -2244,11 +2244,11 @@ Texas
 15
 250
 Houston (Comp)
-Chapelle Russell
-Temple
-OLB
-+80
-Pennsylvania
+Joe Bachie
+Michigan State
+ILB
++83
+Michigan
 7
 5
 251
@@ -2262,11 +2262,11 @@ Washington
 5
 252
 Denver (Comp)
-Terence Steele
-Texas Tech
-OT
-+90
-Texas
+Lavert Hill
+Michigan
+CB
++101
+Michigan
 7
 5
 253
@@ -2280,11 +2280,11 @@ Florida
 5
 254
 Denver (Comp)
-Luq Barcoo
-San Diego State
-CB
-+71
-California
+Terence Steele
+Texas Tech
+OT
++92
+Texas
 7
 5
 255
@@ -2587,6 +2587,12 @@ Ross score: 535
 Ross score: 535
 Ross score: 535
 Nobody picked this school:Florida International
+Ross score: 535
+Ross score: 535
+Nobody picked this school:Memphis
+Ross score: 535
+Nobody picked this school:Hawaii
+Ross score: 535
 Ross score: 535
 Ross score: 535
 Ross score: 535
