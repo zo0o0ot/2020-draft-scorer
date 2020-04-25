@@ -1929,83 +1929,83 @@ Florida
 5
 215
 Cincinnati
-Lamar Jackson
-Nebraska
-CB
-+77
-Nebraska
+Markus Bailey
+Purdue
+ILB
++71
+Indiana
 7
 5
 216
 Washington
-Hunter Bryant
-Washington
-TE
-+166
-Washington
+Kamren Curl
+Arkansas
+S
+-2
+Arkansas
 7
 15
 217
 San Francisco (Trade)
-Terence Steele
-Texas Tech
-OT
-+55
-Texas
+Jauan Jennings
+Tennessee
+WR
+-20
+Tennessee
 7
 5
 218
 NY Giants
-K.J. Hill
-Ohio State
-WR
-+106
-Ohio
-7
-5
-219
+Carter Coughlin
 Minnesota
-Azur Kamara
-Kansas
-ILB
-+10
-Kansas
+EDGE
++11
+Minnesota
+7
+15
+219
+Baltimore
+Geno Stone
+Iowa
+S
+-51
+Iowa
 7
 5
 220
 LA Chargers
-Calvin Throckmorton
-Oregon
-OT
-+91
-Oregon
+K.J. Hill
+Ohio State
+WRS
++108
+Ohio
 7
 5
 221
 Carolina
-John Molchon
-Boise State
-OG
-+44
-Idaho
+Stanley Thomas-Oliver III
+Florida International
+6'2"
+-86
+Florida
 7
 5
 222
 Arizona
-Lavert Hill
-Michigan
-CB
-+71
-Michigan
+Eno Benjamin
+Arizona State
+RBC
++29
+Arizona
 7
 5
 223
 Jacksonville
-Trey Adams
-Washington
+Calvin Throckmorton
+Oregon
 OT
-+89
-Washington
++94
+Oregon
 7
 15
 224
@@ -2019,11 +2019,11 @@ Hawaii
 15
 225
 Baltimore (Trade)
-Kenny Willekes
-Michigan State
-EDGE
-+36
-Michigan
+Lamar Jackson
+Nebraska
+CB
++87
+Nebraska
 7
 15
 226
@@ -2046,20 +2046,20 @@ Mississippi
 15
 228
 Atlanta (Trade)
-Casey Toohill
-Stanford
+Kenny Willekes
+Michigan State
 EDGE
-+27
-California
++39
+Michigan
 7
 15
 229
 Washington (Trade)
-A.J. Green
-Oklahoma State
-CB
-+70
-Oklahoma
+Hunter Bryant
+Washington
+TE
++179
+Washington
 7
 15
 230
@@ -2088,23 +2088,23 @@ DL1T
 -30
 Nebraska
 7
-5
+15
 233
 Chicago
-Yasir Durant
-Missouri
+Trey Adams
+Washington
 OT
-+77
-Missouri
++99
+Washington
 7
 5
 234
 LA Rams
-Markus Bailey
-Purdue
+Joe Bachie
+Michigan State
 ILB
-+90
-Indiana
++67
+Michigan
 7
 15
 235
@@ -2118,11 +2118,11 @@ Nebraska
 15
 236
 Green Bay (Trade)
-Alex Taylor
-South Carolina State
+Yasir Durant
+Missouri
 OT
-+44
-South Carolina
++80
+Missouri
 7
 15
 237
@@ -2145,20 +2145,20 @@ Mississippi
 15
 239
 Buffalo (Trade)
-Luq Barcoo
-San Diego State
+Lavert Hill
+Michigan
 CB
-+56
-California
++88
+Michigan
 7
 5
 240
 Houston
-Nick Coe
-Auburn
-DL5T
-+58
-Alabama
+John Molchon
+Boise State
+OG
++63
+Idaho
 7
 15
 241
@@ -2181,29 +2181,29 @@ Texas
 5
 243
 Tennessee
-Carter Coughlin
-Minnesota
+Casey Toohill
+Stanford
 EDGE
-+36
-Minnesota
++42
+California
 7
 15
 244
 Minnesota (Trade)
-Kamren Curl
-Arkansas
+Alex Taylor
+South Carolina State
 S
-+26
-Arkansas
++47
+South Carolina
 7
-5
+15
 245
 Tampa Bay
-Joe Bachie
-Michigan State
-ILB
-+78
-Michigan
+A.J. Green
+Oklahoma State
+CB
++86
+Oklahoma
 7
 15
 246
@@ -2217,20 +2217,20 @@ Washington
 5
 247
 NY Giants (Comp)
-Jonathan Garvin
-Miami (FL)
-EDGE
-+31
-Florida
+Austin Mack
+Ohio State
+WR
+-14
+Ohio
 7
-5
+15
 248
 Houston (Comp)
-Chapelle Russell
-Temple
-OLB
-+78
-Pennsylvania
+Nick Coe
+Auburn
+DL5T
++66
+Alabama
 7
 5
 249
@@ -2241,14 +2241,14 @@ RB
 -76
 Texas
 7
-5
+15
 250
 Houston (Comp)
-Javon Leake
-Maryland
-RB
-+69
-Maryland
+Chapelle Russell
+Temple
+OLB
++80
+Pennsylvania
 7
 5
 251
@@ -2262,11 +2262,11 @@ Washington
 5
 252
 Denver (Comp)
-Stanford Samuels III
-Florida State
-CB
-+64
-Florida
+Terence Steele
+Texas Tech
+OT
++90
+Texas
 7
 5
 253
@@ -2280,11 +2280,11 @@ Florida
 5
 254
 Denver (Comp)
-Malcolm Roach
-Texas
-DL5T
-+64
-Texas
+Luq Barcoo
+San Diego State
+CB
++71
+California
 7
 5
 255
@@ -2578,6 +2578,15 @@ Nobody picked this school:UMass
 Ross score: 535
 Nobody picked this school:Washington State
 Ross score: 535
+Ross score: 535
+Ross score: 535
+Ross score: 535
+Ross score: 535
+Ross score: 535
+Ross score: 535
+Ross score: 535
+Ross score: 535
+Nobody picked this school:Florida International
 Ross score: 535
 Ross score: 535
 Ross score: 535
