@@ -103,7 +103,7 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 102,3,Alex Highsmith,Charlotte,EDGE,Pittsburgh (Comp),-21,10,North Carolina,False,True
 103,3,Davion Taylor,Colorado,OLB,Philadelphia (Comp),+11,10,Colorado,False,True
 104,4,Terrell Burgess,Utah,S,LA Rams (Comp),+11,8,Utah,False,True
-105,4,Adam Trautman,Dayton,TE,New Orleans (Comp),-23,8,Ohio,False,True
+105,4,Adam Trautman,Dayton,TE,New Orleans (Comp),-23,18,Ohio,True,True
 106,4,Tyre Phillips,Mississippi State,OT,Baltimore (Comp),-176,8,Mississippi,False,True
 107,4,Bryce Hall,Virginia,CB,Cincinnati,+48,8,Virginia,False,False
 108,4,Hunter Bryant,Washington,TE,Washington,+58,8,Washington,False,False

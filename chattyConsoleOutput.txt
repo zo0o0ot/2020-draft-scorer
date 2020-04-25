@@ -1,0 +1,2431 @@
+1
+40
+1
+Cincinnati
+Joe Burrow
+LSU
+QB
+-1
+Louisiana
+1
+35
+2
+Washington
+Chase Young
+Ohio State
+EDGE
++1
+Ohio
+1
+35
+3
+Detroit
+Jeffrey Okudah
+Ohio State
+CB
+-3
+Ohio
+1
+35
+4
+NY Giants
+Andrew Thomas
+Georgia
+OT
+-9
+Georgia
+1
+35
+5
+Miami
+Tua Tagovailoa
+Alabama
+QB
++1
+Alabama
+1
+35
+6
+LA Chargers
+Justin Herbert
+Oregon
+QB
+-6
+Oregon
+1
+35
+7
+Carolina
+Derrick Brown
+Auburn
+DL3T
++2
+Alabama
+1
+35
+8
+Arizona
+Isaiah Simmons
+Clemson
+S
++5
+South Carolina
+1
+35
+9
+Jacksonville
+C.J. Henderson
+Florida
+CB
+-9
+Florida
+1
+35
+10
+Cleveland
+Jedrick Wills
+Alabama
+OT
+-6
+Alabama
+1
+30
+11
+NY Jets
+Mekhi Becton
+Louisville
+OT
++0
+Kentucky
+1
+30
+12
+Las Vegas
+Henry Ruggs III
+Alabama
+WR
+-2
+Alabama
+1
+40
+13
+Tampa Bay (Trade)
+Tristan Wirfs
+Iowa
+OT
++6
+Iowa
+1
+40
+14
+San Francisco (Trade)
+Javon Kinlaw
+South Carolina
+DL3T
++6
+South Carolina
+1
+30
+15
+Denver
+Jerry Jeudy
+Alabama
+WR
++5
+Alabama
+1
+30
+16
+Atlanta
+A.J. Terrell
+Clemson
+CB
+-22
+South Carolina
+1
+30
+17
+Dallas
+CeeDee Lamb
+Oklahoma
+WR
++8
+Oklahoma
+1
+40
+18
+Miami (Trade)
+Austin Jackson
+USC
+OT
+-19
+California
+1
+30
+19
+Las Vegas
+Damon Arnette
+Ohio State
+CB
+-56
+Ohio
+1
+40
+20
+Jacksonville (Trade)
+K'Lavon Chaisson
+LSU
+EDGE
++5
+Louisiana
+1
+25
+21
+Philadelphia
+Jalen Reagor
+TCU
+WRS
+-21
+Texas
+1
+35
+22
+Minnesota (Trade)
+Justin Jefferson
+LSU
+WR
+-2
+Louisiana
+1
+35
+23
+LA Chargers (Trade)
+Kenneth Murray
+Oklahoma
+ILB
+-3
+Oklahoma
+1
+25
+24
+New Orleans
+Cesar Ruiz
+Michigan
+OC
+-11
+Michigan
+1
+35
+25
+San Francisco (Trade)
+Brandon Aiyuk
+Arizona State
+WR
+-26
+Arizona
+1
+35
+26
+Green Bay (Trade)
+Jordan Love
+Utah State
+QB
++9
+Utah
+1
+25
+27
+Seattle
+Jordyn Brooks
+Texas Tech
+ILB
+-56
+Texas
+1
+25
+28
+Baltimore
+Patrick Queen
+LSU
+OLB
++7
+Louisiana
+1
+25
+29
+Tennessee
+Isaiah Wilson
+Georgia
+OT
+-24
+Georgia
+1
+35
+30
+Miami (Trade)
+Noah Igbinoghene
+Auburn
+CB
+-32
+Alabama
+1
+35
+31
+Minnesota (Trade)
+Jeff Gladney
+TCU
+CB
+-25
+Texas
+1
+25
+32
+Kansas City
+Clyde Edwards-Helaire
+LSU
+RB
+-66
+Louisiana
+2
+20
+33
+Cincinnati
+Tee Higgins
+Clemson
+WR
++13
+South Carolina
+2
+30
+34
+Indianapolis (Trade)
+Michael Pittman Jr.
+USC
+WR
+-35
+California
+2
+20
+35
+Detroit
+D'Andre Swift
+Georgia
+RB
++6
+Georgia
+2
+30
+36
+NY Giants (Trade)
+Xavier McKinney
+Alabama
+S
++17
+Alabama
+2
+20
+37
+New England
+Kyle Dugger
+Lenoir–Rhyne
+S
+-7
+North Carolina
+2
+20
+38
+Carolina
+Yetur Gross-Matos
+Penn State
+EDGE
++13
+Pennsylvania
+2
+20
+39
+Miami
+Robert Hunt
+Louisiana-Lafayette
+OT
+-41
+Louisiana
+2
+30
+40
+Houston (Trade)
+Ross Blacklock
+TCU
+DL3T
++6
+Texas
+2
+30
+41
+Indianapolis (Trade)
+Jonathan Taylor
+Wisconsin
+RB
++0
+Wisconsin
+2
+20
+42
+Jacksonville
+Laviska Shenault
+Colorado
+WR
++9
+Colorado
+2
+30
+43
+Chicago (Trade)
+Cole Kmet
+Notre Dame
+TE
+-31
+Indiana
+2
+30
+44
+Cleveland (Trade)
+Grant Delpit
+LSU
+S
++8
+Louisiana
+2
+20
+45
+Tampa Bay
+Antoine Winfield Jr.
+Minnesota
+S
++13
+Minnesota
+2
+20
+46
+Denver
+K.J. Hamler
+Penn State
+WRS
+-12
+Pennsylvania
+2
+20
+47
+Atlanta
+Marlon Davidson
+Auburn
+DL5T
+-18
+Alabama
+2
+20
+48
+Seattle
+Darrell Taylor
+Tennessee
+EDGE
+-43
+Tennessee
+2
+15
+49
+Pittsburgh
+Chase Claypool
+Notre Dame
+WR
+-32
+Indiana
+2
+15
+50
+Chicago
+Jaylon Johnson
+Utah
+CB
++4
+Utah
+2
+15
+51
+Dallas
+Trevon Diggs
+Alabama
+CB
++29
+Alabama
+2
+15
+52
+LA Rams
+Cam Akers
+Florida State
+RB
+-33
+Florida
+2
+25
+53
+Philadelphia (Trade)
+Jalen Hurts
+Alabama
+QB
+-19
+Alabama
+2
+15
+54
+Buffalo
+A.J. Epenesa
+Iowa
+DL5T
++31
+Iowa
+2
+25
+55
+Baltimore (Trade)
+J.K. Dobbins
+Ohio State
+RB
++1
+Ohio
+2
+25
+56
+Miami (Trade)
+Raekwon Davis
+Alabama
+DL3T
+-14
+Alabama
+2
+25
+57
+LA Rams (Trade)
+Van Jefferson
+Florida
+WR
+-74
+Florida
+2
+15
+58
+Minnesota
+Ezra Cleveland
+Boise State
+OT
+-3
+Idaho
+2
+25
+59
+NY Jets
+Denzel Mims
+Baylor
+WR
++19
+Texas
+2
+25
+60
+New England
+Josh Uche
+Michigan
+OLB
+-17
+Michigan
+2
+15
+61
+Tennessee
+Kristian Fulton
+LSU
+CB
++31
+Louisiana
+2
+15
+62
+Green Bay
+A.J. Dillon
+Boston College
+RB
+-56
+Massachusetts
+2
+25
+63
+Kansas City (Trade)
+Willie Gay Jr.
+Mississippi State
+OLB
+-31
+Mississippi
+2
+25
+64
+Carolina (Trade)
+Jeremy Chinn
+Southern Illinois
+S
+-22
+Illinois
+3
+10
+65
+Cincinnati
+Logan Wilson
+Wyoming
+ILB
+-25
+Wyoming
+3
+10
+66
+Washington
+Antonio Gibson
+Memphis
+WR
+-56
+Tennessee
+3
+10
+67
+Detroit
+Julian Okwara
+Notre Dame
+EDGE
+-9
+Indiana
+3
+20
+68
+NY Jets (Trade)
+Ashtyn Davis
+California
+S
+-19
+California
+3
+20
+69
+Seattle
+Damien Lewis
+LSU
+OG
++1
+Louisiana
+3
+10
+70
+Miami
+Brandon Jones
+Texas
+S
+-78
+Texas
+3
+20
+71
+Baltimore (Trade)
+Justin Madubuike
+Texas A&M
+DL3T
++40
+Texas
+3
+10
+72
+Arizona
+Josh Jones
+Houston
+OT
++44
+Texas
+3
+10
+73
+Jacksonville
+Davon Hamilton
+Ohio State
+DL1T
++6
+Ohio
+3
+20
+74
+New Orleans
+Zack Baun
+Wisconsin
+OLB
++35
+Wisconsin
+3
+20
+75
+Detroit
+Jonah Jackson
+Ohio State
+OG
+-22
+Ohio
+3
+10
+76
+Tampa Bay
+Ke'Shawn Vaughn
+Vanderbilt
+RB
+-65
+Tennessee
+3
+10
+77
+Denver
+Michael Ojemudia
+Iowa
+S
+-57
+Iowa
+3
+10
+78
+Atlanta
+Matt Hennessy
+Temple
+OC
+-27
+Pennsylvania
+3
+10
+79
+NY Jets
+Jabari Zuniga
+Florida
+EDGE
++22
+Florida
+3
+10
+80
+Las Vegas
+Lynn Bowden Jr.
+Kentucky
+WRS
+-67
+Kentucky
+3
+20
+81
+Las Vegas (Trade)
+Bryan Edwards
+South Carolina
+WR
+-14
+South Carolina
+3
+10
+82
+Dallas
+Neville Gallimore
+Oklahoma
+DL3T
++39
+Oklahoma
+3
+20
+83
+Denver (Trade)
+Lloyd Cushenberry
+LSU
+OC
++38
+Louisiana
+3
+10
+84
+LA Rams
+Terrell Lewis
+Alabama
+EDGE
++37
+Alabama
+3
+20
+85
+Indianapolis (Trade)
+Jacob Eason
+Washington
+QB
++37
+Washington
+3
+10
+86
+Buffalo
+Zack Moss
+Utah
+RB
++2
+Utah
+3
+10
+87
+New England
+Anfernee Jennings
+Alabama
+ILB
+-35
+Alabama
+3
+20
+88
+Cleveland
+Jordan Elliott
+Missouri
+DL3T
++36
+Missouri
+3
+10
+89
+Minnesota
+Cameron Dantzler
+Mississippi State
+CB
++10
+Mississippi
+3
+10
+90
+Houston
+Jonathan Greenard
+Florida
+EDGE
+-23
+Florida
+3
+20
+91
+New England (Trade)
+Devin Asiasi
+UCLA
+TE
+-52
+California
+3
+10
+92
+Baltimore
+Devin Duvernay
+Texas
+WRS
+-15
+Texas
+3
+10
+93
+Tennessee
+Darrynton Evans
+Appalachian State
+RBC
+-61
+North Carolina
+3
+10
+94
+Green Bay
+Josiah Deguara
+Cincinnati
+TE
+-51
+Ohio
+3
+20
+95
+Denver (Trade)
+McTelvin Agim
+Arkansas
+DL3T
++24
+Arkansas
+3
+10
+96
+Kansas City
+Lucas Niang
+TCU
+OT
+-49
+Texas
+3
+20
+97
+Cleveland (Trade)
+Jacob Phillips
+LSU
+ILB
+-12
+Louisiana
+3
+20
+98
+Baltimore (Comp)
+Malik Harrison
+Ohio State
+ILB
++49
+Ohio
+3
+10
+99
+NY Giants (Comp)
+Matt Peart
+Connecticut
+OT
++21
+Connecticut
+3
+20
+100
+Las Vegas (Comp)
+Tanner Muse
+Clemson
+S
+-50
+South Carolina
+3
+20
+101
+New England (Trade)
+Dalton Keene
+Virginia Tech
+TE
+-57
+Virginia
+3
+10
+102
+Pittsburgh (Comp)
+Alex Highsmith
+Charlotte
+EDGE
+-21
+North Carolina
+3
+10
+103
+Philadelphia (Comp)
+Davion Taylor
+Colorado
+OLB
++11
+Colorado
+4
+8
+104
+LA Rams (Comp)
+Terrell Burgess
+Utah
+S
++11
+Utah
+4
+18
+105
+New Orleans (Comp)
+Adam Trautman
+Dayton
+TE
+-23
+Ohio
+4
+8
+106
+Baltimore (Comp)
+Tyre Phillips
+Mississippi State
+OT
+-176
+Mississippi
+4
+8
+107
+Cincinnati
+Bryce Hall
+Virginia
+CB
++48
+Virginia
+4
+8
+108
+Washington
+Hunter Bryant
+Washington
+TE
++58
+Washington
+4
+8
+109
+Detroit
+Tyler Johnson
+Minnesota
+WR
++36
+Minnesota
+4
+8
+110
+NY Giants
+Netane Muti
+Fresno State
+OG
++83
+California
+4
+18
+111
+Houston (Trade)
+Troy Pride Jr.
+Notre Dame
+CB
++29
+Indiana
+4
+8
+112
+LA Chargers
+James Lynch
+Baylor
+DL5T
++57
+Texas
+4
+8
+113
+Carolina
+Shane Lemieux
+Oregon
+OG
++49
+Oregon
+4
+8
+114
+Arizona
+Lamical Perine
+Florida
+RB
+-38
+Florida
+4
+8
+115
+Cleveland
+Ben Bartch
+St. John's
+OG
++26
+Minnesota
+4
+8
+116
+Jacksonville
+Troy Dye
+Oregon
+ILB
++53
+Oregon
+4
+18
+117
+Minnesota (Trade)
+Jake Fromm
+Georgia
+QB
++57
+Georgia
+4
+8
+118
+Denver
+Amik Robertson
+Louisiana Tech
+CB
++30
+Louisiana
+4
+8
+119
+Atlanta
+Curtis Weaver
+Boise State
+EDGE
++53
+Idaho
+4
+8
+120
+NY Jets
+Darnay Holmes
+UCLA
+CB
++16
+California
+4
+8
+121
+Las Vegas
+Akeem Davis-Gaither
+Appalachian State
+OLB
++20
+North Carolina
+4
+8
+122
+Indianapolis
+Leki Fotu
+Utah
+DL1T
++1
+Utah
+4
+8
+123
+Dallas
+Tyler Biadasz
+Wisconsin
+OC
++23
+Wisconsin
+4
+8
+124
+Pittsburgh
+Rashard Lawrence
+LSU
+DL1T
+-1
+Louisiana
+4
+18
+125
+NY Jets (Trade)
+Harrison Bryant
+Florida Atlantic
+TE
++29
+Florida
+4
+8
+126
+LA Rams
+Cam Brown
+Penn State
+ILB
++2
+Pennsylvania
+4
+8
+127
+Philadelphia
+Nick Harris
+Washington
+OC
++21
+Washington
+4
+8
+128
+Buffalo
+Khaleke Hudson
+Michigan
+OLB
+-10
+Michigan
+4
+18
+129
+Baltimore (Trade)
+Logan Stenberg
+Kentucky
+OG
++27
+Kentucky
+4
+8
+130
+Minnesota
+Bradlee Anae
+Utah
+EDGE
++19
+Utah
+4
+18
+131
+Arizona (Trade)
+Jason Strowbridge
+North Carolina
+DL5T
++32
+North Carolina
+4
+8
+132
+Minnesota
+John Simpson
+Clemson
+OG
++2
+South Carolina
+4
+8
+133
+Seattle
+Casey Toohill
+Stanford
+EDGE
+-68
+California
+4
+8
+134
+Atlanta
+Carlos Davis
+Nebraska
+DL1T
+-9
+Nebraska
+4
+18
+135
+Pittsburgh (Trade)
+K'Von Wallace
+Clemson
+S
++21
+South Carolina
+4
+18
+136
+Miami (Trade)
+Hakeem Adeniji
+Kansas
+OG
++6
+Kansas
+4
+18
+137
+Jacksonville (Trade)
+Anthony Gordon
+Washington State
+QB
++17
+Washington
+4
+8
+138
+Kansas City
+Solomon Kindley
+Georgia
+OG
++5
+Georgia
+4
+8
+139
+Las Vegas (Comp)
+Prince Tega Wanogho
+Auburn
+OT
++31
+Alabama
+4
+18
+140
+Jacksonville (Trade)
+Calvin Throckmorton
+Oregon
+OT
++11
+Oregon
+4
+8
+141
+Miami (Comp)
+Alton Robinson
+Syracuse
+EDGE
++24
+New York
+4
+8
+142
+Washington (Comp)
+Trey Adams
+Washington
+OT
++8
+Washington
+4
+18
+143
+Baltimore (Trade)
+Antonio Gandy-Golden
+Liberty
+WR
++40
+Virginia
+4
+8
+144
+Seattle (Comp)
+K.J. Hill
+Ohio State
+WR
++32
+Ohio
+4
+8
+145
+Philadelphia (Comp)
+Joshua Kelley
+UCLA
+RBC
++14
+California
+4
+8
+146
+Philadelphia (Comp)
+Gabriel Davis
+UCF
+WR
++31
+Florida
+5
+7
+147
+Cincinnati
+Kenny Robinson Jr.
+West Virginia
+S
++20
+West Virginia
+5
+7
+148
+Seattle
+Jack Driscoll
+Auburn
+OT
++3
+Alabama
+5
+7
+149
+Detroit
+James Proche
+SMU
+WRS
++3
+Texas
+5
+7
+150
+NY Giants
+Donovan Peoples-Jones
+Michigan
+WR
++24
+Michigan
+5
+7
+151
+LA Chargers
+Yasir Durant
+Missouri
+OT
+-5
+Missouri
+5
+7
+152
+Carolina
+Markus Bailey
+Purdue
+ILB
++8
+Indiana
+5
+7
+153
+Miami
+Trevis Gipson
+Tulsa
+DL5T
++37
+Oklahoma
+5
+17
+154
+Miami (Trade)
+Jake Hanson
+Oregon
+OC
++22
+Oregon
+5
+17
+155
+Minnesota (Trade)
+Albert Okwuegbunam
+Missouri
+TE
++13
+Missouri
+5
+17
+156
+San Francisco (Trade)
+Terence Steele
+Texas Tech
+OT
+-6
+Texas
+5
+17
+157
+Jacksonville (Trade)
+Brycen Hopkins
+Purdue
+TE
++21
+Indiana
+5
+7
+158
+NY Jets
+Lamar Jackson
+Nebraska
+CB
++21
+Nebraska
+5
+7
+159
+New England
+Collin Johnson
+Texas
+WR
++14
+Texas
+5
+17
+160
+Cleveland (Trade)
+Lavert Hill
+Michigan
+CB
++9
+Michigan
+5
+7
+161
+Tampa Bay
+Larrell Murchison
+NC State
+DL3T
++32
+North Carolina
+5
+17
+162
+Washington (Trade)
+A.J. Green
+Oklahoma State
+CB
++3
+Oklahoma
+5
+7
+163
+Chicago
+Ben Bredeson
+Michigan
+OG
++19
+Michigan
+5
+7
+164
+Dallas
+Antoine Brooks Jr.
+Maryland
+S
++15
+Maryland
+5
+17
+165
+Jacksonville (Trade)
+Khalil Davis
+Nebraska
+DL3T
++18
+Nebraska
+5
+17
+166
+Detroit (Trade)
+Shaun Bradley
+Temple
+OLB
++9
+Pennsylvania
+5
+7
+167
+Buffalo
+Kenny Willekes
+Michigan State
+EDGE
+-22
+Michigan
+5
+17
+168
+Philadelphia (Trade)
+J.R. Reed
+Georgia
+S
++15
+Georgia
+5
+7
+169
+New Orleans
+Nate Stanley
+Iowa
+QB
++14
+Iowa
+5
+17
+170
+Baltimore (Trade)
+Khalid Kareem
+Notre Dame
+EDGE
++2
+Indiana
+5
+7
+171
+Houston
+Darryl Williams
+Mississippi State
+OC
++21
+Mississippi
+5
+17
+172
+Las Vegas (Trade)
+Robert Windsor
+Penn State
+DL3T
++12
+Pennsylvania
+5
+17
+173
+Miami (Trade)
+Chapelle Russell
+Temple
+OLB
++3
+Pennsylvania
+5
+7
+174
+Tennessee
+Cheyenne O'Grady
+Arkansas
+TE
+-4
+Arkansas
+5
+7
+175
+Green Bay
+Alex Taylor
+South Carolina State
+OT
+-17
+South Carolina
+5
+17
+176
+Minnesota (Trade)
+Raequan Williams
+Michigan State
+DL3T
++13
+Michigan
+5
+7
+177
+Kansas City
+Joe Bachie
+Michigan State
+ILB
++10
+Michigan
+5
+7
+178
+Denver (Comp)
+Nick Coe
+Auburn
+DL5T
+-4
+Alabama
+5
+7
+179
+Dallas (Comp)
+Luq Barcoo
+San Diego State
+CB
+-4
+California
+6
+6
+180
+Cincinnati
+Jon Runyan
+Michigan
+OG
++14
+Michigan
+6
+16
+181
+Denver (Trade)
+Charlie Heck
+North Carolina
+OT
+-29
+North Carolina
+6
+6
+182
+Detroit
+0
+Georgia
+0
++0
+Georgia
+6
+6
+183
+NY Giants
+D.J. Wonnum
+South Carolina
+EDGE
+-2
+South Carolina
+6
+6
+184
+Carolina
+Isaiah Hodgins
+Oregon State
+WR
++23
+Oregon
+6
+6
+185
+Miami
+Anthony McFarland Jr.
+Maryland
+RBC
++12
+Maryland
+6
+6
+186
+LA Chargers
+Justin Strnad
+Wake Forest
+OLB
++15
+North Carolina
+6
+16
+187
+Cleveland (Trade)
+John Hightower
+Boise State
+WR
++22
+Idaho
+6
+16
+188
+Buffalo (Trade)
+Stanford Samuels III
+Florida State
+CB
++0
+Florida
+6
+6
+189
+Jacksonville
+Javon Leake
+Maryland
+RB
++8
+Maryland
+6
+16
+190
+Philadelphia (Trade)
+Jauan Jennings
+Tennessee
+WR
+-47
+Tennessee
+6
+6
+191
+NY Jets
+Quartney Davis
+Texas A&M
+WR
++22
+Texas
+6
+16
+192
+Green Bay (Trade)
+Danny Pinter
+Ball State
+OG
+-118
+Indiana
+6
+6
+193
+Indianapolis
+James Morgan
+Florida International
+QB
+-46
+Florida
+6
+6
+194
+Tampa Bay
+John Molchon
+Boise State
+OG
++17
+Idaho
+6
+16
+195
+New England (Trade)
+Cole McDonald
+Hawaii
+QB
++20
+Hawaii
+6
+6
+196
+Chicago
+Julian Blackmon
+Utah
+S
++32
+Utah
+6
+16
+197
+Indianapolis (Trade)
+Derrek Tuszka
+North Dakota State
+EDGE
+-68
+North Dakota
+6
+6
+198
+Pittsburgh
+0
+Georgia
+0
++0
+Georgia
+6
+6
+199
+LA Rams
+Shyheim Carter
+Alabama
+CB
++8
+Alabama
+6
+16
+200
+Chicago (Trade)
+Carter Coughlin
+Minnesota
+EDGE
+-7
+Minnesota
+6
+16
+201
+Minnesota (Trade)
+Kamren Curl
+Arkansas
+S
+-17
+Arkansas
+6
+16
+202
+Arizona (Trade)
+John Reid
+Penn State
+CB
+-13
+Pennsylvania
+6
+6
+203
+New Orleans
+Aaron Fuller
+Washington
+WRS
++1
+Washington
+6
+16
+204
+New England (Trade)
+Broderick Washington Jr.
+Texas Tech
+DL3T
+-1
+Texas
+6
+6
+205
+Minnesota
+Keith Ismael
+San Diego State
+OC
++33
+California
+6
+16
+206
+Jacksonville (Trade)
+Jordan Mack
+Virginia
+OLB
++12
+Virginia
+6
+6
+207
+Buffalo
+Eno Benjamin
+Arizona State
+RB
++14
+Arizona
+6
+16
+208
+Green Bay (Trade)
+Joe Reed
+Virginia
+WR
+-6
+Virginia
+6
+6
+209
+Green Bay
+Darius Anderson
+TCU
+RB
++9
+Texas
+6
+6
+210
+San Francisco
+Quez Watkins
+Southern Miss
+WR
+-33
+Mississippi
+6
+16
+211
+NY Jets (Trade)
+James Robinson
+Illinois State
+RB
++15
+Illinois
+6
+6
+212
+New England (Comp)
+Jonathan Garvin
+Miami (FL)
+EDGE
+-4
+Florida
+6
+6
+213
+New England (Comp)
+Benito Jones
+Ole Miss
+DL1T
++37
+Mississippi
+6
+6
+214
+Seattle (Comp)
+Malcolm Roach
+Texas
+DL5T
++24
+Texas
+7
+5
+215
+Cincinnati
+James Smith-Williams
+NC State
+EDGE
+-8
+North Carolina
+7
+5
+216
+Washington
+Mykal Walker
+Fresno State
+ILB
++42
+California
+7
+15
+217
+San Francisco (Trade)
+Daniel Thomas
+Auburn
+S
+-77
+Alabama
+7
+5
+218
+NY Giants
+Frederick Mauigoa
+Washington State
+OC
++12
+Washington
+7
+5
+219
+Minnesota
+Evan Weaver
+California
+ILB
++39
+California
+7
+5
+220
+LA Chargers
+Oluwole Betiku
+Illinois
+EDGE
+-5
+Illinois
+7
+5
+221
+Carolina
+Salvon Ahmed
+Washington
+RBC
++42
+Washington
+7
+5
+222
+Arizona
+Shaquille Quarterman
+Miami (FL)
+ILB
++36
+Florida
+7
+5
+223
+Jacksonville
+Justin Herron
+Wake Forest
+OG
++19
+North Carolina
+7
+15
+224
+Tennessee (Trade)
+LaDarius Hamilton
+North Texas
+EDGE
+-20
+Texas
+7
+15
+225
+Baltimore (Trade)
+Dane Jackson
+Pitt
+CB
++7
+Pennsylvania
+7
+15
+226
+Chicago (Trade)
+Steven Montez
+Colorado
+QB
++2
+Colorado
+7
+15
+227
+Miami (Trade)
+Bravvion Roy
+Baylor
+DL1T
+-27
+Texas
+7
+15
+228
+Atlanta (Trade)
+Michael Divinity Jr.
+LSU
+OLB
++8
+Louisiana
+7
+15
+229
+Washington (Trade)
+Rodney Clemons
+SMU
+S
++3
+Texas
+7
+15
+230
+New England (Trade)
+JaMycal Hasty
+Baylor
+RBC
++35
+Texas
+7
+5
+231
+Dallas
+Jessie Lemonier
+Liberty
+EDGE
+-32
+Virginia
+7
+5
+232
+Pittsburgh
+Levante Bellamy
+Western Michigan
+RBC
++35
+Michigan
+7
+5
+233
+Chicago
+Quintez Cephus
+Wisconsin
+WR
++1
+Wisconsin
+7
+5
+234
+LA Rams
+Benning Potoa'e
+Washington
+DL3T
+-8
+Washington
+7
+15
+235
+Detroit (Trade)
+Scoota Harris
+Arkansas
+ILB
++37
+Arkansas
+7
+15
+236
+Green Bay (Trade)
+Francis Bernard
+Utah State
+ILB
++33
+Utah
+7
+15
+237
+Tennessee (Trade)
+Michael Onwenu
+Michigan
+OG
++10
+Michigan
+7
+15
+238
+NY Giants (Trade)
+Azur Kamara
+Kansas
+ILB
++29
+Kansas
+7
+15
+239
+Buffalo (Trade)
+Saahdiq Charles
+LSU
+OT
+-11
+Louisiana
+7
+5
+240
+Houston
+Chauncey Rivers
+Mississippi State
+DL5T
++23
+Mississippi
+7
+15
+241
+Tampa Bay (Trade)
+Austin Mack
+Ohio State
+WR
+-20
+Ohio
+7
+15
+242
+Green Bay (Trade)
+Reggie Robinson II
+Tulsa
+CB
++12
+Oklahoma
+7
+5
+243
+Tennessee
+David Woodward
+Utah State
+ILB
++22
+Utah
+7
+15
+244
+New Orleans (Trade)
+Essang Bassey
+Wake Forest
+CB
++13
+North Carolina
+7
+5
+245
+Tampa Bay
+Sean Pollard
+Clemson
+OC
++17
+South Carolina
+7
+15
+246
+Miami (Trade)
+Jacob Breeland
+Oregon
+TE
+-1
+Oregon
+7
+5
+247
+NY Giants (Comp)
+J.J. Taylor
+Arizona
+RBC
++34
+Arizona
+7
+5
+248
+Houston (Comp)
+Cordel Iwuagwu
+TCU
+OG
++13
+Texas
+7
+5
+249
+Minnesota (Comp)
+Kevin Dotson
+Louisiana-Lafayette
+OG
+-52
+Louisiana
+7
+5
+250
+Houston (Comp)
+Kalija Lipscomb
+Vanderbilt
+WR
+-22
+Tennessee
+7
+5
+251
+Miami (Comp)
+Kamal Martin
+Minnesota
+ILB
+-7
+Minnesota
+7
+5
+252
+Denver (Comp)
+Daniel Bituli
+Tennessee
+ILB
+-46
+Tennessee
+7
+5
+253
+Minnesota (Comp)
+Chris Williamson
+Minnesota
+CB
+-13
+Minnesota
+7
+5
+254
+Denver (Comp)
+Adrian Killins Jr.
+UCF
+RBC
++20
+Florida
+7
+5
+255
+NY Giants (Comp)
+Michael Pinckney
+Miami (FL)
+OLB
++14
+Florida
+Creating csv...
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
+Ross score: 0
+Ross score: 0
+Ross score: 0
+Ross score: 0
+Ross score: 0
+Ross score: 35
+Ross score: 70
+Ross score: 70
+Ross score: 70
+Ross score: 70
+Ross score: 70
+Ross score: 70
+Ross score: 70
+Ross score: 70
+Ross score: 70
+Ross score: 70
+Ross score: 100
+Ross score: 100
+Ross score: 100
+Ross score: 100
+Ross score: 100
+Ross score: 100
+Ross score: 135
+Ross score: 135
+Ross score: 135
+Ross score: 135
+Ross score: 135
+Ross score: 135
+Ross score: 135
+Ross score: 170
+Ross score: 170
+Ross score: 170
+Ross score: 170
+Ross score: 170
+Ross score: 170
+Ross score: 170
+Ross score: 190
+Ross score: 190
+Nobody picked this school:Louisiana-Lafayette
+Ross score: 190
+Ross score: 190
+Ross score: 190
+Ross score: 190
+Ross score: 190
+Ross score: 190
+Ross score: 190
+Ross score: 190
+Ross score: 210
+Ross score: 210
+Ross score: 210
+Ross score: 225
+Ross score: 225
+Nobody picked this school:Florida State
+Ross score: 225
+Ross score: 250
+Ross score: 250
+Ross score: 250
+Ross score: 250
+Ross score: 250
+Ross score: 265
+Ross score: 265
+Ross score: 265
+Ross score: 265
+Nobody picked this school:Boston College
+Ross score: 265
+Ross score: 265
+Nobody picked this school:Southern Illinois
+Ross score: 265
+Nobody picked this school:Wyoming
+Ross score: 265
+Nobody picked this school:Memphis
+Ross score: 265
+Ross score: 265
+Ross score: 265
+Ross score: 265
+Ross score: 265
+Ross score: 285
+Ross score: 285
+Ross score: 285
+Ross score: 285
+Ross score: 285
+Nobody picked this school:Vanderbilt
+Ross score: 285
+Ross score: 285
+Ross score: 285
+Ross score: 285
+Nobody picked this school:Kentucky
+Ross score: 285
+Ross score: 285
+Ross score: 295
+Ross score: 295
+Ross score: 295
+Ross score: 295
+Ross score: 305
+Ross score: 305
+Ross score: 305
+Ross score: 305
+Ross score: 305
+Nobody picked this school:UCLA
+Ross score: 305
+Ross score: 305
+Nobody picked this school:Appalachian State
+Ross score: 305
+Nobody picked this school:Cincinnati
+Ross score: 305
+Ross score: 305
+Ross score: 305
+Ross score: 305
+Ross score: 305
+Nobody picked this school:Connecticut
+Ross score: 305
+Ross score: 305
+Nobody picked this school:Virginia Tech
+Ross score: 305
+Nobody picked this school:Charlotte
+Ross score: 305
+Ross score: 305
+Ross score: 313
+Nobody picked this school:Dayton
+Ross score: 313
+Ross score: 313
+Creating csv...
+Behold, the draft!
