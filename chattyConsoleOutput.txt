@@ -2153,7 +2153,7 @@ Pennsylvania
 7
 15
 240
-New Orleans
+New Orleans (Trade)
 Tommy Stevens
 Mississippi State
 QB
@@ -2198,7 +2198,7 @@ Iowa
 7
 15
 245
-Tampa Bay
+Tampa Bay (Trade)
 Raymond Calais
 Louisiana-Lafayette
 RBC
@@ -2225,7 +2225,7 @@ Minnesota
 7
 15
 248
-LA Rams (Comp)
+LA Rams (Trade)
 Sam Sloman
 Miami (OH)
 PK
@@ -2243,7 +2243,7 @@ Mississippi
 7
 15
 250
-LA Rams (Comp)
+LA Rams (Trade)
 Tremayne Anchrum
 Clemson
 OG
@@ -2252,48 +2252,48 @@ South Carolina
 7
 15
 251
-Seattle (Comp)
-Calvin Throckmorton
-Oregon
-OT
-+122
-Oregon
+Seattle (Trade)
+Stephen Sullivan
+LSU
+TE
+-9
+Louisiana
 7
 5
 252
 Denver (Comp)
-Trey Adams
-Washington
-OT
-+118
-Washington
+Tyrie Cleveland
+Florida
+WR
+-152
+Florida
 7
 5
 253
 Minnesota (Comp)
-Tyrie Cleveland
-Florida
-WR
--151
-Florida
+Kyle Hinton
+Washburn
+OG
+-121
+Kansas
 7
 5
 254
 Denver (Comp)
-Lamar Jackson
-Nebraska
-CB
-+116
-Nebraska
+Derrek Tuszka
+North Dakota State
+EDGE
+-11
+North Dakota
 7
 5
 255
 NY Giants (Comp)
-Darryl Williams
-Mississippi State
-OC
-+105
-Mississippi
+Tae Crowder
+Georgia
+ILB
+-98
+Georgia
 Creating csv...
 Checking for mismatches....
 No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
@@ -2629,6 +2629,13 @@ Ross score: 550
 Ross score: 550
 Nobody picked this school:Miami (OH)
 Ross score: 550
+Ross score: 550
+Ross score: 550
+Ross score: 550
+Ross score: 550
+Nobody picked this school:Washburn
+Ross score: 550
+Nobody picked this school:North Dakota State
 Ross score: 550
 Ross score: 550
 Ross score: 550

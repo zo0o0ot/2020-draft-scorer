@@ -51,7 +51,7 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 50,2,Jaylon Johnson,Utah,CB,Chicago,+4,15,Utah,False,True
 51,2,Trevon Diggs,Alabama,CB,Dallas,+29,15,Alabama,False,True
 52,2,Cam Akers,Florida State,RB,LA Rams,-33,15,Florida,False,True
-53,2,Jalen Hurts,Alabama,QB,Philadelphia (Trade),-19,25,Alabama,True,True
+53,2,Jalen Hurts,Oklahoma,QB,Philadelphia (Trade),-19,25,Oklahoma,True,True
 54,2,A.J. Epenesa,Iowa,DL5T,Buffalo,+31,15,Iowa,False,True
 55,2,J.K. Dobbins,Ohio State,RB,Baltimore (Trade),+1,25,Ohio,True,True
 56,2,Raekwon Davis,Alabama,DL3T,Miami (Trade),-14,25,Alabama,True,True
@@ -238,19 +238,19 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 237,7,Bopete Keyes,Tulane,DB,Kansas City (Trade),-69,15,Louisiana,True,True
 238,7,T.J. Brunson,South Carolina,OLB,NY Giants (Trade),-142,15,South Carolina,True,True
 239,7,Dane Jackson,Pitt,CB,Buffalo (Trade),+21,15,Pennsylvania,True,True
-240,7,Tommy Stevens,Mississippi State,QB,New Orleans,-114,15,Mississippi,True,True
+240,7,Tommy Stevens,Mississippi State,QB,New Orleans (Trade),-114,15,Mississippi,True,True
 241,7,Chapelle Russell,Temple,LB,Tampa Bay (Trade),+71,15,Pennsylvania,True,True
 242,7,Jonathan Garvin,Miami (FL),EDGE,Green Bay (Trade),+26,15,Florida,True,True
 243,7,Chris Jackson,Marshall,DB,Tennessee,-79,5,West Virginia,False,True
 244,7,Nate Stanley,Iowa,QB,Minnesota (Trade),+89,15,Iowa,True,True
-245,7,Raymond Calais,Louisiana-Lafayette,RBC,Tampa Bay,-1,15,Louisiana,True,True
+245,7,Raymond Calais,Louisiana-Lafayette,RBC,Tampa Bay (Trade),-1,15,Louisiana,True,True
 246,7,Malcolm Perry,Navy,RBC,Miami (Trade),-102,15,Maryland,True,True
 247,7,Chris Williamson,Minnesota,CB,NY Giants (Comp),-19,5,Minnesota,False,True
-248,7,Sam Sloman,Miami (OH),PK,LA Rams (Comp),-54,15,Ohio,True,True
+248,7,Sam Sloman,Miami (OH),PK,LA Rams (Trade),-54,15,Ohio,True,True
 249,7,Brian Cole II,Mississippi State,S,Minnesota (Comp),-80,5,Mississippi,False,True
-250,7,Tremayne Anchrum,Clemson,OG,LA Rams (Comp),-76,15,South Carolina,True,True
-251,7,Calvin Throckmorton,Oregon,OT,Seattle (Comp),+122,15,Oregon,True,False
-252,7,Trey Adams,Washington,OT,Denver (Comp),+118,5,Washington,False,False
-253,7,Tyrie Cleveland,Florida,WR,Minnesota (Comp),-151,5,Florida,False,False
-254,7,Lamar Jackson,Nebraska,CB,Denver (Comp),+116,5,Nebraska,False,False
-255,7,Darryl Williams,Mississippi State,OC,NY Giants (Comp),+105,5,Mississippi,False,False
+250,7,Tremayne Anchrum,Clemson,OG,LA Rams (Trade),-76,15,South Carolina,True,True
+251,7,Stephen Sullivan,LSU,TE,Seattle (Trade),-9,15,Louisiana,True,True
+252,7,Tyrie Cleveland,Florida,WR,Denver (Comp),-152,5,Florida,False,True
+253,7,Kyle Hinton,Washburn,OG,Minnesota (Comp),-121,5,Kansas,False,True
+254,7,Derrek Tuszka,North Dakota State,EDGE,Denver (Comp),-11,5,North Dakota,False,True
+255,7,Tae Crowder,Georgia,ILB,NY Giants (Comp),-98,5,Georgia,False,True
