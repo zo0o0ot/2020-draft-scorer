@@ -1406,11 +1406,11 @@ California
 17
 157
 Jacksonville (Trade)
-Hunter Bryant
-Washington
-TE
-+107
-Washington
+Daniel Thomas
+Auburn
+S
+-81
+Alabama
 5
 7
 158
@@ -1487,11 +1487,11 @@ Texas
 17
 166
 Detroit (Trade)
-K.J. Hill
-Ohio State
+Quintez Cephus
+Wisconsin
 WR
-+54
-Ohio
+-66
+Wisconsin
 5
 7
 167
@@ -1823,7 +1823,7 @@ Minnesota
 Blake Brandel
 Oregon State
 OT
--86
+-69
 Oregon
 6
 16
@@ -1865,83 +1865,84 @@ Oregon
 16
 208
 Green Bay (Trade)
-Prince Tega Wanogho
-Auburn
-OT
-+100
-Alabama
+Jake Hanson
+Oregon
+OC
++76
+Oregon
 6
 6
 209
 Green Bay
-Quartney Davis
-Texas A&M
-WR
-+40
-Texas
+Simon Stepaniak
+Indiana
+OG
+-94
+Indiana
 6
 16
 210
 Philadelphia
-Lamar Jackson
-Nebraska
-CB
-+72
-Nebraska
+Prince Tega Wanogho
+Auburn
+OT
++102
+Alabama
+Error matching school!
 6
 16
 211
-NY Jets (Trade)
-Lavert Hill
-Michigan
-CB
-+60
-Michigan
+Indianapolis (Trade)
+Isaiah Rodgers
+UMass
+DB
+-16
+
 6
 16
 212
 Indianapolis (Comp)
-A.J. Green
-Oklahoma State
-CB
-+53
-Oklahoma
+Dezmon Patmon
+Washington State
+WR
+-94
+Washington
 6
 16
 213
 Indianapolis (Comp)
-Cheyenne O'Grady
-Arkansas
-TE
-+35
-Arkansas
+Jordan Glasgow
+Michigan
+OLB
+-91
+Michigan
 6
 6
 214
 Seattle (Comp)
-Calvin Throckmorton
-Oregon
-OT
-+85
-Oregon
+Freddie Swain
+Florida
+WRS
+-95
+Florida
 7
 5
 215
 Cincinnati
-J.R. Reed
-Georgia
-S
-+62
-Georgia
+Lamar Jackson
+Nebraska
+CB
++77
+Nebraska
 7
 5
 216
 Washington
-Markus Bailey
-Purdue
-ILB
-+72
-Indiana
+Hunter Bryant
+Washington
+TE
++166
+Washington
 7
 15
 217
@@ -1955,11 +1956,11 @@ Texas
 5
 218
 NY Giants
-Jake Hanson
-Oregon
-OC
-+86
-Oregon
+K.J. Hill
+Ohio State
+WR
++106
+Ohio
 7
 5
 219
@@ -1973,11 +1974,11 @@ Kansas
 5
 220
 LA Chargers
-Trey Adams
-Washington
+Calvin Throckmorton
+Oregon
 OT
-+86
-Washington
++91
+Oregon
 7
 5
 221
@@ -1991,20 +1992,20 @@ Idaho
 5
 222
 Arizona
-Luq Barcoo
-San Diego State
+Lavert Hill
+Michigan
 CB
-+39
-California
++71
+Michigan
 7
 5
 223
 Jacksonville
-Yasir Durant
-Missouri
+Trey Adams
+Washington
 OT
-+67
-Missouri
++89
+Washington
 7
 15
 224
@@ -2054,11 +2055,11 @@ California
 15
 229
 Washington (Trade)
-Stanford Samuels III
-Florida State
+A.J. Green
+Oklahoma State
 CB
-+41
-Florida
++70
+Oklahoma
 7
 15
 230
@@ -2072,11 +2073,11 @@ Iowa
 5
 231
 Dallas
-Alex Taylor
-South Carolina State
+J.R. Reed
+Georgia
 S
-+34
-South Carolina
++78
+Georgia
 7
 5
 232
@@ -2090,20 +2091,20 @@ Nebraska
 5
 233
 Chicago
-Cordel Iwuagwu
-TCU
-OG
--2
-Texas
+Yasir Durant
+Missouri
+OT
++77
+Missouri
 7
 5
 234
 LA Rams
-Joe Bachie
-Michigan State
+Markus Bailey
+Purdue
 ILB
-+67
-Michigan
++90
+Indiana
 7
 15
 235
@@ -2117,38 +2118,38 @@ Nebraska
 15
 236
 Green Bay (Trade)
-Raequan Williams
-Michigan State
-DL3T
-+73
-Michigan
+Alex Taylor
+South Carolina State
+OT
++44
+South Carolina
 7
 15
 237
 Tennessee (Trade)
-Carter Coughlin
-Minnesota
-EDGE
-+30
-Minnesota
+Cheyenne O'Grady
+Arkansas
+TE
++59
+Arkansas
 7
 15
 238
 NY Giants (Trade)
-Jonathan Garvin
-Miami (FL)
-EDGE
-+22
-Florida
+Darryl Williams
+Mississippi State
+OC
++88
+Mississippi
 7
 15
 239
 Buffalo (Trade)
-Shyheim Carter
-Alabama
+Luq Barcoo
+San Diego State
 CB
-+48
-Alabama
++56
+California
 7
 5
 240
@@ -2162,29 +2163,29 @@ Alabama
 15
 241
 Tampa Bay (Trade)
-Darryl Williams
-Mississippi State
-OC
-+91
-Mississippi
+Cordel Iwuagwu
+TCU
+OG
++6
+Texas
 7
 15
 242
 Green Bay (Trade)
-Dane Jackson
-Pitt
-CB
-+24
-Pennsylvania
+Quartney Davis
+Texas A&M
+WR
++73
+Texas
 7
 5
 243
 Tennessee
-Aaron Fuller
-Washington
-WRS
-+41
-Washington
+Carter Coughlin
+Minnesota
+EDGE
++36
+Minnesota
 7
 15
 244
@@ -2198,11 +2199,11 @@ Arkansas
 5
 245
 Tampa Bay
-Chapelle Russell
-Temple
-OLB
-+75
-Pennsylvania
+Joe Bachie
+Michigan State
+ILB
++78
+Michigan
 7
 15
 246
@@ -2216,20 +2217,20 @@ Washington
 5
 247
 NY Giants (Comp)
-Quintez Cephus
-Wisconsin
-WR
-+15
-Wisconsin
+Jonathan Garvin
+Miami (FL)
+EDGE
++31
+Florida
 7
 5
 248
 Houston (Comp)
-Javon Leake
-Maryland
-RB
-+67
-Maryland
+Chapelle Russell
+Temple
+OLB
++78
+Pennsylvania
 7
 5
 249
@@ -2243,29 +2244,29 @@ Texas
 5
 250
 Houston (Comp)
-Jordan Mack
-Virginia
-OLB
-+56
-Virginia
+Javon Leake
+Maryland
+RB
++69
+Maryland
 7
 5
 251
 Miami (Comp)
-Scoota Harris
-Arkansas
-ILB
-+53
-Arkansas
+Aaron Fuller
+Washington
+WRS
++49
+Washington
 7
 5
 252
 Denver (Comp)
-Malcolm Roach
-Texas
-DL5T
-+62
-Texas
+Stanford Samuels III
+Florida State
+CB
++64
+Florida
 7
 5
 253
@@ -2279,20 +2280,20 @@ Florida
 5
 254
 Denver (Comp)
-Essang Bassey
-Wake Forest
-CB
-+23
-North Carolina
+Malcolm Roach
+Texas
+DL5T
++64
+Texas
 7
 5
 255
 NY Giants (Comp)
-Eno Benjamin
-Arizona State
-RB
-+62
-Arizona
+Raequan Williams
+Michigan State
+DL3T
++92
+Michigan
 Creating csv...
 Checking for mismatches....
 No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
@@ -2305,7 +2306,8 @@ No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick]
 Checking for mismatches....
 No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
 Checking for mismatches....
-No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
+211, Isaiah Rodgers, UMass
+1 mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
 Ross score: 0
 Ross score: 0
 Ross score: 0
@@ -2500,74 +2502,84 @@ Nobody picked this school:Tulsa
 Ross score: 400
 Nobody picked this school:San Diego State
 Ross score: 400
-Ross score: 400
-Ross score: 400
+Ross score: 417
+Ross score: 417
 Nobody picked this school:Marshall
-Ross score: 400
-Ross score: 400
-Ross score: 400
-Ross score: 400
+Ross score: 417
+Ross score: 417
+Ross score: 417
+Ross score: 417
 Nobody picked this school:Georgia Southern
-Ross score: 400
-Ross score: 417
-Ross score: 417
-Ross score: 417
 Ross score: 417
 Ross score: 434
 Ross score: 434
 Ross score: 434
+Ross score: 434
+Ross score: 451
+Ross score: 451
+Ross score: 451
 Nobody picked this school:Rhode Island
-Ross score: 434
+Ross score: 451
 Nobody picked this school:New Mexico State
-Ross score: 434
+Ross score: 451
 Nobody picked this school:Tulane
-Ross score: 434
+Ross score: 451
 Nobody picked this school:NC State
-Ross score: 434
-Ross score: 434
 Ross score: 451
 Ross score: 451
+Ross score: 468
+Ross score: 468
 Nobody picked this school:Wake Forest
-Ross score: 451
-Ross score: 458
+Ross score: 468
+Ross score: 475
 Nobody picked this school:Kansas
-Ross score: 458
-Ross score: 458
-Ross score: 458
-Ross score: 458
-Ross score: 458
-Ross score: 458
-Ross score: 458
-Ross score: 458
+Ross score: 475
+Ross score: 475
+Ross score: 475
+Ross score: 475
+Ross score: 475
+Ross score: 475
+Ross score: 475
+Ross score: 475
 Nobody picked this school:Georgia Southern
-Ross score: 458
+Ross score: 475
 Nobody picked this school:Oregon State
-Ross score: 458
-Ross score: 458
-Ross score: 464
-Ross score: 464
-Ross score: 464
-Ross score: 464
+Ross score: 475
+Ross score: 475
+Ross score: 481
+Ross score: 481
+Ross score: 481
+Ross score: 481
 Nobody picked this school:Wake Forest
-Ross score: 464
-Ross score: 464
-Ross score: 480
-Ross score: 486
-Ross score: 486
+Ross score: 481
+Ross score: 481
+Ross score: 497
+Ross score: 503
+Ross score: 503
 Nobody picked this school:Southern Miss
-Ross score: 486
+Ross score: 503
 Nobody picked this school:SMU
-Ross score: 486
-Ross score: 486
+Ross score: 503
+Ross score: 503
 Nobody picked this school:Oregon State
-Ross score: 486
+Ross score: 503
 Nobody picked this school:Wyoming
-Ross score: 486
-Ross score: 486
+Ross score: 503
+Ross score: 503
 Nobody picked this school:Georgia Tech
-Ross score: 486
+Ross score: 503
 Nobody picked this school:Oregon State
-Ross score: 486
-Ross score: 486
+Ross score: 503
+Ross score: 519
+Nobody picked this school:Indiana
+Ross score: 519
+Ross score: 535
+Nobody picked this school:UMass
+Ross score: 535
+Nobody picked this school:Washington State
+Ross score: 535
+Ross score: 535
+Ross score: 535
+Ross score: 535
 Creating csv...
 Behold, the draft!
