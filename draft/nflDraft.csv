@@ -219,36 +219,36 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 218,7,Carter Coughlin,Minnesota,EDGE,NY Giants,+11,5,Minnesota,False,True
 219,7,Geno Stone,Iowa,S,Baltimore,-51,15,Iowa,True,True
 220,7,K.J. Hill,Ohio State,WRS,LA Chargers,+108,5,Ohio,False,True
-221,7,Stanley Thomas-Oliver III,Florida International,"6'2""",Carolina,-86,5,Florida,False,True
+221,7,Stanley Thomas-Oliver III,Florida International,CB,Carolina,-86,5,Florida,False,True
 222,7,Eno Benjamin,Arizona State,RBC,Arizona,+29,5,Arizona,False,True
 223,7,Chris Claybrooks,Memphis,CB,Jacksonville,-57,5,Tennessee,False,True
 224,7,Cole McDonald,Hawaii,QB,Tennessee (Trade),+49,15,Hawaii,True,True
 225,7,Kenny Willekes,Michigan State,EDGE,Minnesota (Trade),+36,15,Michigan,True,True
 226,7,Arlington Hambright,Colorado,OG,Chicago (Trade),-54,15,Colorado,True,True
-227,7,Anthony Gordon,Washington State,QB,Chicago (Trade),+107,15,Washington,True,False
-228,7,Casey Toohill,Stanford,EDGE,Atlanta (Trade),+27,15,California,True,False
-229,7,Hunter Bryant,Washington,TE,Washington (Trade),+179,15,Washington,True,False
-230,7,Nate Stanley,Iowa,QB,New England (Trade),+75,15,Iowa,True,False
-231,7,J.R. Reed,Georgia,S,Dallas,+78,5,Georgia,False,False
+227,7,Lachavious Simmons,Tennessee State,OL,Chicago (Trade),-59,15,Tennessee,True,True
+228,7,Sterling Hofrichter,Syracuse,P,Atlanta (Trade),+6,15,New York,True,True
+229,7,James Smith-Williams,NC State,EDGE,Washington (Trade),+6,15,North Carolina,True,True
+230,7,Dustin Woodard,Memphis,OL,New England (Trade),-73,15,Tennessee,True,True
+231,7,Ben DiNucci,James Madison,QB,Dallas,-82,5,Virginia,False,True
 232,7,Benito Jones,Ole Miss,DL1T,Pittsburgh,+56,5,Mississippi,False,False
-233,7,Alex Taylor,South Carolina State,S,Chicago,+36,15,South Carolina,True,False
+233,7,Anthony Gordon,Washington State,QB,Chicago,+113,15,Washington,True,False
 234,7,Calvin Throckmorton,Oregon,OT,LA Rams,+105,5,Oregon,False,False
 235,7,Khalil Davis,Nebraska,DL3T,Detroit (Trade),+88,15,Nebraska,True,False
 236,7,Yasir Durant,Missouri,OT,Green Bay (Trade),+80,15,Missouri,True,False
-237,7,Cheyenne O'Grady,Arkansas,TE,Tennessee (Trade),+59,15,Arkansas,True,False
+237,7,Hunter Bryant,Washington,TE,Tennessee (Trade),+187,15,Washington,True,False
 238,7,Darryl Williams,Mississippi State,OC,NY Giants (Trade),+88,15,Mississippi,True,False
 239,7,Trey Adams,Washington,OT,Buffalo (Trade),+105,15,Washington,True,False
 240,7,John Molchon,Boise State,OG,Houston,+63,5,Idaho,False,False
 241,7,Cordel Iwuagwu,TCU,OG,Tampa Bay (Trade),+6,15,Texas,True,False
 242,7,Quartney Davis,Texas A&M,WR,Green Bay (Trade),+73,15,Texas,True,False
-243,7,Jonathan Garvin,Miami (FL),EDGE,Tennessee,+27,5,Florida,False,False
-244,7,Rodney Clemons,SMU,S,Minnesota (Trade),+18,15,Texas,True,False
+243,7,Casey Toohill,Stanford,EDGE,Tennessee,+42,5,California,False,False
+244,7,J.R. Reed,Georgia,S,Minnesota (Trade),+91,15,Georgia,True,False
 245,7,Lamar Jackson,Nebraska,CB,Tampa Bay,+107,15,Nebraska,True,False
 246,7,Salvon Ahmed,Washington,RBC,Miami (Trade),+67,15,Washington,True,False
 247,7,Austin Mack,Ohio State,WR,NY Giants (Comp),-14,5,Ohio,False,False
 248,7,Nick Coe,Auburn,DL5T,Houston (Comp),+66,15,Alabama,True,False
 249,7,Sewo Olonilua,TCU,RB,Minnesota (Comp),-76,5,Texas,False,False
-250,7,Joe Bachie,Michigan State,ILB,Houston (Comp),+83,15,Michigan,True,False
+250,7,Nate Stanley,Iowa,QB,Houston (Comp),+95,15,Iowa,True,False
 251,7,Aaron Fuller,Washington,WRS,Miami (Comp),+49,5,Washington,False,False
 252,7,Lavert Hill,Michigan,CB,Denver (Comp),+101,5,Michigan,False,False
 253,7,Tyrie Cleveland,Florida,WR,Minnesota (Comp),-151,5,Florida,False,False

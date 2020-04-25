@@ -1985,7 +1985,7 @@ Ohio
 Carolina
 Stanley Thomas-Oliver III
 Florida International
-6'2"
+CB
 -86
 Florida
 7
@@ -2037,47 +2037,47 @@ Colorado
 15
 227
 Chicago (Trade)
-Anthony Gordon
-Washington State
-QB
-+107
-Washington
+Lachavious Simmons
+Tennessee State
+OL
+-59
+Tennessee
 7
 15
 228
 Atlanta (Trade)
-Casey Toohill
-Stanford
-EDGE
-+27
-California
+Sterling Hofrichter
+Syracuse
+P
++6
+New York
 7
 15
 229
 Washington (Trade)
-Hunter Bryant
-Washington
-TE
-+179
-Washington
+James Smith-Williams
+NC State
+EDGE
++6
+North Carolina
 7
 15
 230
 New England (Trade)
-Nate Stanley
-Iowa
-QB
-+75
-Iowa
+Dustin Woodard
+Memphis
+OL
+-73
+Tennessee
 7
 5
 231
 Dallas
-J.R. Reed
-Georgia
-S
-+78
-Georgia
+Ben DiNucci
+James Madison
+QB
+-82
+Virginia
 7
 5
 232
@@ -2091,11 +2091,11 @@ Mississippi
 15
 233
 Chicago
-Alex Taylor
-South Carolina State
-S
-+36
-South Carolina
+Anthony Gordon
+Washington State
+QB
++113
+Washington
 7
 5
 234
@@ -2127,11 +2127,11 @@ Missouri
 15
 237
 Tennessee (Trade)
-Cheyenne O'Grady
-Arkansas
+Hunter Bryant
+Washington
 TE
-+59
-Arkansas
++187
+Washington
 7
 15
 238
@@ -2181,20 +2181,20 @@ Texas
 5
 243
 Tennessee
-Jonathan Garvin
-Miami (FL)
+Casey Toohill
+Stanford
 EDGE
-+27
-Florida
++42
+California
 7
 15
 244
 Minnesota (Trade)
-Rodney Clemons
-SMU
+J.R. Reed
+Georgia
 S
-+18
-Texas
++91
+Georgia
 7
 15
 245
@@ -2244,11 +2244,11 @@ Texas
 15
 250
 Houston (Comp)
-Joe Bachie
-Michigan State
-ILB
-+83
-Michigan
+Nate Stanley
+Iowa
+QB
++95
+Iowa
 7
 5
 251
@@ -2594,6 +2594,16 @@ Ross score: 535
 Nobody picked this school:Hawaii
 Ross score: 535
 Ross score: 535
+Ross score: 535
+Nobody picked this school:Tennessee State
+Ross score: 535
+Nobody picked this school:Syracuse
+Ross score: 535
+Nobody picked this school:NC State
+Ross score: 535
+Nobody picked this school:Memphis
+Ross score: 535
+Nobody picked this school:James Madison
 Ross score: 535
 Ross score: 535
 Creating csv...
