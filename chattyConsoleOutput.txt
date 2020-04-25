@@ -1532,110 +1532,110 @@ Texas
 7
 171
 Houston
-Netane Muti
-Fresno State
-OG
-+144
-California
+Isaiah Coulter
+Rhode Island
+WR
+-58
+Rhode Island
 5
 17
 172
 Detroit (Trade)
-Larrell Murchison
-NC State
-DL5T
-+53
-North Carolina
+Jason Huntley
+New Mexico State
+RBC
+-66
+New Mexico
 5
 17
 173
-Philadelphia (Trade)
-Bradlee Anae
-Utah
-EDGE
-+62
-Utah
+Chicago (Trade)
+Darnell Mooney
+Tulane
+WR
+-63
+Louisiana
 5
 7
 174
 Tennessee
-Thaddeus Moss
-LSU
-TE
--125
-Louisiana
+Larrell Murchison
+NC State
+DL5T
++55
+North Carolina
 5
 7
 175
 Green Bay
-Prince Tega Wanogho
-Auburn
-OT
-+67
-Alabama
+Kamal Martin
+Minnesota
+ILB
+-83
+Minnesota
 5
 17
 176
 Minnesota (Trade)
-Raequan Williams
-Michigan State
-DL3T
-+13
-Michigan
+K.J. Osborn
+Miami (FL)
+WRS
+-59
+Florida
 5
 7
 177
 Kansas City
-A.J. Green
-Oklahoma State
-CB
-+18
-Oklahoma
+Mike Danna
+Michigan
+EDGE
+-91
+Michigan
 5
 7
 178
 Denver (Comp)
-Hakeem Adeniji
-Kansas
-OT
-+68
-Kansas
+Justin Strnad
+Wake Forest
+OLB
++7
+North Carolina
 5
 7
 179
 Dallas (Comp)
-Antoine Brooks Jr.
-Maryland
-S
-+30
-Maryland
+Bradlee Anae
+Utah
+EDGE
++68
+Utah
 6
 6
 180
 Cincinnati
-Calvin Throckmorton
-Oregon
+Hakeem Adeniji
+Kansas
 OT
-+51
-Oregon
++70
+Kansas
 6
 16
 181
 Denver (Trade)
-Lamar Jackson
-Nebraska
-CB
-+43
-Nebraska
+Netane Muti
+Fresno State
+OG
++154
+California
 6
 6
 182
-Indianapolis
-Isaiah Hodgins
-Oregon State
-WR
-+21
-Oregon
+New England
+Michael Onwenu
+Michigan
+OG
+-45
+Michigan
 6
 6
 183
@@ -1649,11 +1649,11 @@ Ohio
 6
 184
 Carolina
-Jon Runyan
-Michigan
+Calvin Throckmorton
+Oregon
 OG
-+18
-Michigan
++35
+Oregon
 6
 6
 185
@@ -1702,12 +1702,12 @@ Washington
 6
 16
 190
-Philadelphia (Trade)
-J.R. Reed
-Georgia
-S
-+37
-Georgia
+San Francisco (Trade)
+Lamar Jackson
+Nebraska
+CB
++52
+Nebraska
 6
 6
 191
@@ -1721,11 +1721,11 @@ Michigan
 16
 192
 Green Bay (Trade)
-Cam Brown
-Penn State
-ILB
-+68
-Pennsylvania
+Prince Tega Wanogho
+Auburn
+OT
++84
+Alabama
 6
 6
 193
@@ -1756,12 +1756,12 @@ Washington
 6
 6
 196
-Chicago
-John Molchon
-Boise State
-OG
-+19
-Idaho
+Philadelphia
+A.J. Green
+Oklahoma State
+CB
++37
+Oklahoma
 6
 16
 197
@@ -1784,29 +1784,29 @@ Mississippi
 6
 199
 LA Rams
-Markus Bailey
-Purdue
+Cam Brown
+Penn State
 ILB
-+55
-Indiana
++75
+Pennsylvania
 6
 16
 200
-Chicago (Trade)
-Nate Stanley
-Iowa
-QB
-+45
-Iowa
+Philadelphia (Trade)
+Robert Windsor
+Penn State
+DL3T
++40
+Pennsylvania
 6
 16
 201
 Minnesota (Trade)
-Alex Taylor
-South Carolina State
+Antoine Brooks Jr.
+Maryland
 S
-+4
-South Carolina
++52
+Maryland
 6
 16
 202
@@ -1829,11 +1829,11 @@ Virginia
 16
 204
 New England (Trade)
-Quartney Davis
-Texas A&M
+Isaiah Hodgins
+Oregon State
 WR
-+35
-Texas
++43
+Oregon
 6
 6
 205
@@ -1847,11 +1847,11 @@ Illinois
 16
 206
 Jacksonville (Trade)
-Cole McDonald
-Hawaii
+Nate Stanley
+Iowa
 QB
-+31
-Hawaii
++51
+Iowa
 6
 6
 207
@@ -1865,29 +1865,29 @@ Pennsylvania
 16
 208
 Green Bay (Trade)
-Robert Windsor
-Penn State
-DL3T
-+48
-Pennsylvania
+Quartney Davis
+Texas A&M
+WR
++39
+Texas
 6
 6
 209
 Green Bay
-Luq Barcoo
-San Diego State
-CB
-+26
-California
+Raequan Williams
+Michigan State
+DL3T
++46
+Michigan
 6
 6
 210
-Miami
-Salvon Ahmed
-Washington
-RBC
-+31
-Washington
+Philadelphia
+Casey Toohill
+Stanford
+EDGE
++9
+California
 6
 16
 211
@@ -1900,21 +1900,21 @@ Arkansas
 6
 6
 212
-New England (Comp)
-Shyheim Carter
-Alabama
-DL3T
-+16
-Alabama
+Indianapolis (Comp)
+Luq Barcoo
+San Diego State
+CB
++29
+California
 6
 6
 213
-New England (Comp)
-Casey Toohill
-Stanford
-EDGE
-+12
-California
+Indianapolis (Comp)
+Jacob Breeland
+Oregon
+TE
+-34
+Oregon
 6
 6
 214
@@ -1928,20 +1928,20 @@ Missouri
 5
 215
 Cincinnati
-Stanford Samuels III
-Florida State
-CB
-+27
-Florida
+J.R. Reed
+Georgia
+S
++62
+Georgia
 7
 5
 216
 Washington
-Joe Bachie
-Michigan State
+Markus Bailey
+Purdue
 ILB
-+49
-Michigan
++72
+Indiana
 7
 15
 217
@@ -1982,20 +1982,20 @@ Texas
 5
 221
 Carolina
-Evan Weaver
-California
+Joe Bachie
+Michigan State
 ILB
-+41
-California
++54
+Michigan
 7
 5
 222
 Arizona
-Nick Coe
-Auburn
-DL5T
-+40
-Alabama
+Stanford Samuels III
+Florida State
+CB
++34
+Florida
 7
 5
 223
@@ -2027,137 +2027,137 @@ Minnesota
 15
 226
 Chicago (Trade)
-Jonathan Garvin
-Miami (FL)
-EDGE
-+10
-Florida
+Jon Runyan
+Michigan
+OG
++60
+Michigan
 7
 15
 227
 Miami (Trade)
-Aaron Fuller
+Salvon Ahmed
 Washington
-WRS
-+25
+RBC
++48
 Washington
 7
 15
 228
 Atlanta (Trade)
-Shaun Bradley
-Temple
-OLB
-+71
-Pennsylvania
+Jonathan Garvin
+Miami (FL)
+EDGE
++12
+Florida
 7
 15
 229
 Washington (Trade)
-Essang Bassey
-Wake Forest
+Shyheim Carter
+Alabama
 CB
--2
-North Carolina
++38
+Alabama
 7
 15
 230
 New England (Trade)
-Darryl Williams
-Mississippi State
-OC
-+80
-Mississippi
+James Smith-Williams
+NC State
+EDGE
++7
+North Carolina
 7
 5
 231
 Dallas
-James Smith-Williams
-NC State
-EDGE
-+8
-North Carolina
+Alex Taylor
+South Carolina State
+S
++34
+South Carolina
 7
 5
 232
 Pittsburgh
-Chapelle Russell
+Shaun Bradley
 Temple
 OLB
-+62
++75
 Pennsylvania
 7
 5
 233
 Chicago
-Kamren Curl
-Arkansas
-S
-+15
-Arkansas
+Cole McDonald
+Hawaii
+QB
++58
+Hawaii
 7
 5
 234
 LA Rams
-Benning Potoa'e
-Washington
-DL3T
--8
-Washington
+Essang Bassey
+Wake Forest
+CB
++3
+North Carolina
 7
 15
 235
 Detroit (Trade)
-Justin Strnad
-Wake Forest
+Chapelle Russell
+Temple
 OLB
-+64
-North Carolina
++65
+Pennsylvania
 7
 15
 236
 Green Bay (Trade)
-Jauan Jennings
-Tennessee
-WR
--1
-Tennessee
+Jace Whittaker
+Arizona
+CB
+-15
+Arizona
 7
 15
 237
 Tennessee (Trade)
-LaDarius Hamilton
-North Texas
-EDGE
--7
-Texas
+John Molchon
+Boise State
+OG
++60
+Idaho
 7
 15
 238
 NY Giants (Trade)
-Jessie Lemonier
-Liberty
+LaDarius Hamilton
+North Texas
 EDGE
--25
-Virginia
+-6
+Texas
 7
 15
 239
 Buffalo (Trade)
-Scoota Harris
-Arkansas
+Evan Weaver
+California
 ILB
-+41
-Arkansas
++59
+California
 7
 5
 240
 Houston
-Malcolm Roach
-Texas
+Nick Coe
+Auburn
 DL5T
-+50
-Texas
++58
+Alabama
 7
 15
 241
@@ -2171,20 +2171,20 @@ North Carolina
 15
 242
 Green Bay (Trade)
-Frederick Mauigoa
-Washington State
+Darryl Williams
+Mississippi State
 OC
-+36
-Washington
++92
+Mississippi
 7
 5
 243
 Tennessee
-Michael Onwenu
-Michigan
-OG
-+16
-Michigan
+Aaron Fuller
+Washington
+WRS
++41
+Washington
 7
 15
 244
@@ -2198,20 +2198,20 @@ Mississippi
 5
 245
 Tampa Bay
-Francis Bernard
-Utah State
-ILB
-+42
-Utah
+Malcolm Roach
+Texas
+DL5T
++55
+Texas
 7
 15
 246
 Miami (Trade)
-Michael Divinity Jr.
-LSU
-OLB
-+26
-Louisiana
+Scoota Harris
+Arkansas
+ILB
++48
+Arkansas
 7
 5
 247
@@ -2225,11 +2225,11 @@ Texas
 5
 248
 Houston (Comp)
-Austin Mack
-Ohio State
-WR
--13
-Ohio
+Cordel Iwuagwu
+TCU
+OG
++13
+Texas
 7
 5
 249
@@ -2252,11 +2252,11 @@ Illinois
 5
 251
 Miami (Comp)
-David Woodward
-Utah State
-ILB
-+30
-Utah
+Frederick Mauigoa
+Washington State
+OC
++45
+Washington
 7
 5
 252
@@ -2279,20 +2279,20 @@ Florida
 5
 254
 Denver (Comp)
-Kamal Martin
-Minnesota
+Francis Bernard
+Utah State
 ILB
--4
-Minnesota
++51
+Utah
 7
 5
 255
 NY Giants (Comp)
-Michael Pinckney
-Miami (FL)
+Michael Divinity Jr.
+LSU
 OLB
-+14
-Florida
++35
+Louisiana
 Creating csv...
 Checking for mismatches....
 No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
@@ -2516,6 +2516,24 @@ Ross score: 434
 Ross score: 451
 Ross score: 451
 Ross score: 451
+Nobody picked this school:Rhode Island
 Ross score: 451
+Nobody picked this school:New Mexico State
+Ross score: 451
+Nobody picked this school:Tulane
+Ross score: 451
+Nobody picked this school:NC State
+Ross score: 451
+Ross score: 451
+Ross score: 468
+Ross score: 468
+Nobody picked this school:Wake Forest
+Ross score: 468
+Ross score: 475
+Nobody picked this school:Kansas
+Ross score: 475
+Ross score: 475
+Ross score: 475
+Ross score: 475
 Creating csv...
 Behold, the draft!
