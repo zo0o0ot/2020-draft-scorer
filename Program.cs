@@ -351,9 +351,18 @@ namespace _2020_draft_scorer
                 {
                     try
                     {
-                        string luckyDude = fantasyTeams[dp.school];
-                        int originalScore = scores[luckyDude];
-                        scores[luckyDude] = originalScore + dp.leagifyPoints;
+                        if (dp.playerName == "Jalen Hurts")
+                        {
+                            //Jalen Hurts counts for Oklahoma, not Alabama.
+                            int originalScore = scores["Ross"];
+                            scores["Ross"] = originalScore + dp.leagifyPoints;
+                        }
+                        else
+                        {
+                            string luckyDude = fantasyTeams[dp.school];
+                            int originalScore = scores[luckyDude];
+                            scores[luckyDude] = originalScore + dp.leagifyPoints;
+                        }
                     }
                     catch
                     {
