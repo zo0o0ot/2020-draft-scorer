@@ -1739,10 +1739,10 @@ Pennsylvania
 6
 194
 Tampa Bay
-Carlos Davis
+Khalil Davis
 Nebraska
 DL3T
-+59
++47
 Nebraska
 6
 16
@@ -2082,191 +2082,191 @@ Virginia
 5
 232
 Pittsburgh
-Benito Jones
-Ole Miss
-DL1T
-+56
-Mississippi
+Carlos Davis
+Nebraska
+DL3T
++97
+Nebraska
 7
 15
 233
-Chicago
-Anthony Gordon
-Washington State
-QB
-+113
-Washington
+Philadelphia
+Casey Toohill
+Stanford
+EDGE
++32
+California
 7
 5
 234
 LA Rams
-Calvin Throckmorton
-Oregon
-OT
-+105
-Oregon
+Clay Johnston
+Baylor
+ILB
+-68
+Texas
 7
 15
 235
 Detroit (Trade)
-Khalil Davis
-Nebraska
-DL3T
-+88
-Nebraska
+Jashon Cornell
+Ohio State
+DL5T
+-17
+Ohio
 7
 15
 236
 Green Bay (Trade)
-Yasir Durant
-Missouri
-OT
-+80
-Missouri
+Vernon Scott
+TCU
+DB
+-49
+Texas
 7
 15
 237
-Tennessee (Trade)
-Hunter Bryant
-Washington
-TE
-+187
-Washington
+Kansas City (Trade)
+Bopete Keyes
+Tulane
+DB
+-69
+Louisiana
 7
 15
 238
 NY Giants (Trade)
-Darryl Williams
-Mississippi State
-OC
-+88
-Mississippi
+T.J. Brunson
+South Carolina
+OLB
+-142
+South Carolina
 7
 15
 239
 Buffalo (Trade)
-Trey Adams
-Washington
-OT
-+105
-Washington
+Dane Jackson
+Pitt
+CB
++21
+Pennsylvania
 7
-5
+15
 240
-Houston
-John Molchon
-Boise State
-OG
-+63
-Idaho
+New Orleans
+Tommy Stevens
+Mississippi State
+QB
+-114
+Mississippi
 7
 15
 241
 Tampa Bay (Trade)
-Cordel Iwuagwu
-TCU
-OG
-+6
-Texas
+Chapelle Russell
+Temple
+LB
++71
+Pennsylvania
 7
 15
 242
 Green Bay (Trade)
-Quartney Davis
-Texas A&M
-WR
-+73
-Texas
+Jonathan Garvin
+Miami (FL)
+EDGE
++26
+Florida
 7
 5
 243
 Tennessee
-Casey Toohill
-Stanford
-EDGE
-+42
-California
+Chris Jackson
+Marshall
+DB
+-79
+West Virginia
 7
 15
 244
 Minnesota (Trade)
-J.R. Reed
-Georgia
-S
-+91
-Georgia
+Nate Stanley
+Iowa
+QB
++89
+Iowa
 7
 15
 245
 Tampa Bay
-Lamar Jackson
-Nebraska
-CB
-+107
-Nebraska
+Raymond Calais
+Louisiana-Lafayette
+RBC
+-1
+Louisiana
 7
 15
 246
 Miami (Trade)
-Salvon Ahmed
-Washington
+Malcolm Perry
+Navy
 RBC
-+67
-Washington
+-102
+Maryland
 7
 5
 247
 NY Giants (Comp)
-Austin Mack
-Ohio State
-WR
--14
-Ohio
+Chris Williamson
+Minnesota
+CB
+-19
+Minnesota
 7
 15
 248
 Houston (Comp)
-Nick Coe
-Auburn
-DL5T
-+66
-Alabama
+Calvin Throckmorton
+Oregon
+OG
++99
+Oregon
 7
 5
 249
 Minnesota (Comp)
-Sewo Olonilua
-TCU
-RB
--76
-Texas
+J.R. Reed
+Georgia
+S
++96
+Georgia
 7
 15
 250
 Houston (Comp)
-Nate Stanley
-Iowa
-QB
-+95
-Iowa
+Nick Coe
+Auburn
+DL5T
++68
+Alabama
 7
 5
 251
 Miami (Comp)
-Aaron Fuller
-Washington
-WRS
-+49
-Washington
+Benito Jones
+Ole Miss
+DL1T
++75
+Mississippi
 7
 5
 252
 Denver (Comp)
-Lavert Hill
-Michigan
-CB
-+101
-Michigan
+Trey Adams
+Washington
+OT
++118
+Washington
 7
 5
 253
@@ -2280,20 +2280,20 @@ Florida
 5
 254
 Denver (Comp)
-Terence Steele
-Texas Tech
-OT
-+92
-Texas
+Lamar Jackson
+Nebraska
+CB
++116
+Nebraska
 7
 5
 255
 NY Giants (Comp)
-Raequan Williams
-Michigan State
-DL3T
-+92
-Michigan
+Darryl Williams
+Mississippi State
+OC
++105
+Mississippi
 Creating csv...
 Checking for mismatches....
 No mismatches in System.Collections.Generic.List`1[_2020_draft_scorer.DraftPick].....
@@ -2606,5 +2606,27 @@ Ross score: 535
 Nobody picked this school:James Madison
 Ross score: 535
 Ross score: 535
+Nobody picked this school:Stanford
+Ross score: 535
+Ross score: 535
+Ross score: 535
+Ross score: 535
+Nobody picked this school:Tulane
+Ross score: 535
+Ross score: 535
+Nobody picked this school:Pitt
+Ross score: 535
+Ross score: 535
+Ross score: 535
+Ross score: 550
+Nobody picked this school:Marshall
+Ross score: 550
+Ross score: 550
+Nobody picked this school:Louisiana-Lafayette
+Ross score: 550
+Nobody picked this school:Navy
+Ross score: 550
+Ross score: 550
+Ross score: 550
 Creating csv...
 Behold, the draft!
