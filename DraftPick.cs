@@ -32,7 +32,7 @@ namespace _2020_draft_scorer
             this.school = school;
             this.position = pos;
             this.reachValue = relativeVal;
-            this.pickTraded = hasPickBeenTraded(team);
+            this.pickTraded = hasPickBeenTraded(team, pick);
             this.state = getState(school);
 
             if(this.pickTraded)
@@ -103,9 +103,22 @@ namespace _2020_draft_scorer
             
         }
 
-        public static bool hasPickBeenTraded(string teamText)
+        public static bool hasPickBeenTraded(string teamText, string pick)
         {
-            return teamText.Contains("Trade");
+            if (teamText.Contains("Trade"))
+            {
+                return true;
+            }
+            else if (pick == "59" || pick == "60")
+            {
+                // bad data on site. Not listed as trade even though it is.
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+            //return teamText.Contains("Trade");
         }
 
         public static int convertPickToPoints(string pick, int round)
