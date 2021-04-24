@@ -14,12 +14,12 @@ namespace _2020_draft_scorer
         {
             var webGet = new HtmlWeb();
             webGet.UserAgent = "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0";
-            var document1 = webGet.Load("https://www.drafttek.com/2020-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-1.asp");
-            var document2 = webGet.Load("https://www.drafttek.com/2020-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-1b.asp");
-            var document3 = webGet.Load("https://www.drafttek.com/2020-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-2.asp");
-            var document4 = webGet.Load("https://www.drafttek.com/2020-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-3.asp");
-            var document5 = webGet.Load("https://www.drafttek.com/2020-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-4.asp");
-            var document6 = webGet.Load("https://www.drafttek.com/2020-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-6.asp");
+            var document1 = webGet.Load("https://www.drafttek.com/2021-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-1.asp");
+            var document2 = webGet.Load("https://www.drafttek.com/2021-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-1b.asp");
+            var document3 = webGet.Load("https://www.drafttek.com/2021-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-2.asp");
+            var document4 = webGet.Load("https://www.drafttek.com/2021-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-3.asp");
+            var document5 = webGet.Load("https://www.drafttek.com/2021-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-4.asp");
+            var document6 = webGet.Load("https://www.drafttek.com/2021-NFL-Mock-Draft/2021-NFL-Mock-Draft-Round-6.asp");
 
             //Console.WriteLine(document1.ParsedText);
             //#content > table:nth-child(9)
@@ -77,6 +77,7 @@ namespace _2020_draft_scorer
             // This is still messy from debugging the different values.  It should be optimized.
             var dn = doc.DocumentNode;
             var dns = dn.SelectNodes("/html/body/div/div/div/table");
+            //Console.WriteLine(dns.ToString());
             var attr = dns[1].Attributes;
             var attrs = attr.ToArray();
             var style = attr.FirstOrDefault().Value;
